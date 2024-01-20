@@ -1,0 +1,4819 @@
+.3
+Temperature Structure of the Atmosphere  . . . . . . . . . . .
+Wind  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The Freezing Process  . . . . . . . . . . . . . . . . . . . . . . . .
+Wind Shear and Turbulence  . .
+.19
+Stability and the Diurnal Variation in Wind  . . . . . . .
+Wind Shear  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Relationship Between Wind, Shear and Turbulence  .
+.22
+Topographical Effects on Wind  . . . . . . . . . . . . . . . .
+.33
+Thunderstorms  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The Life Cycle of a Thunderstorm  . . . . . . . . . . . . . .
+.36
+Types of Thunderstorms . . . . . . . . . . . . . . . . . . . . . .
+Thunderstorm Hazards  . . . . . . . . . . . . . . . . . . . . .
+.40
+Severe Thunderstorms  . . . . . . . . . . . . . . . . . . . . . . .
+.63
+Winter Storms  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Within it storms are born, grow in intensity as they sweep across sections of
+the  globe, then  dissipate.
+Changes  from  one  state  to  another  are  called  phase  changes  and  are  readily
+accomplished at ordinary atmospheric pressures and temperatures.
+1-1 - Heat transfer and water vapour
+
+How  much  water  the  air  contains  in  the  form  of  vapour  is  directly  related  to  its
+temperature.
+Air that con-
+tains its maximum amount of water vapour, at that given temperature, is said to be
+saturated.
+A quick measure of the moisture content of the atmosphere can be made
+
+BC-E  11/12/05  11:28 PM  Page 2
+
+2
+
+CHAPTER ONE
+
+by looking at the dew point temperature.
+The planetary heat engine consists of water being evaporated by the sun into water
+vapour  at  the  equator  (storing  heat)  and  transporting  it  towards  the  poles  on  the
+winds where it is condensed back into a solid or liquid state (releasing heat).
+Most of
+what we refer to as “weather,” such as wind, cloud, fog and precipitation is related to
+this conversion activity.
+The  excess  water  vapour  is  condensed  out  in  the  form  of  cloud
+droplets or ice crystals which then can go on to form precipitation.
+This compression causes
+the air’s temperature to increase which will consequently lower its relative humidity.
+
+As a result, areas in which subsidence occurs will not only receive less precipitation
+than surrounding areas (referred to as a “rain shadow”) but will often see the cloud
+layers thin and break up.
+
+
+BC-E  11/12/05  11:28 PM  Page 4
+
+4
+
+CHAPTER ONE
+
+Fig.1-6 - Moist air moving over mountains where it loses its moisture and sinks (cid:0)
+              into a dry subsidence area
+
+Temperature Structure of the Atmosphere
+
+The temperature lapse rate of the atmosphere refers to the change of temperature
+with  a  change  in  height.
+In  the  normal  case, temperature  decreases  with  height
+through the troposphere to the tropopause and then becomes relatively constant in the
+stratosphere.
+
+
+Two other conditions are possible: an inversion, in which the temperature increas-
+es with height, or an isothermal layer, in which the temperature remains constant with
+height.
+
+
+1-7 - Different lapse rates of the atmosphere
+
+BC-E  11/12/05  11:28 PM  Page 5
+
+LAKP-British Columbia
+
+5
+
+The temperature lapse rate of the atmosphere is a direct measurement of the sta-
+
+bility of the atmosphere.
+
+
+If a parcel of air is displaced upwards and then released it is said to be unstable if it
+continues to ascend (since the parcel is warmer than the surrounding air), stable if it
+returns to the level from which it originated (since the parcel is cooler than the sur-
+rounding air), and neutral if the parcel remains at the level it was released (since the
+parcel’s temperature is that of the surrounding air).
+
+
+The  type  of  cloud  and  precipitation  produced  varies  with  stability.
+Unstable  air,
+when lifted, has a tendency to develop convective clouds and showery precipitation.
+
+Stable air is inclined to produce deep layer cloud and widespread steady precipitation.
+
+Wind
+
+Horizontal differences in temperature result in horizontal differences in pressure.
+It
+is these horizontal changes in pressure that cause the wind to blow as the atmosphere
+attempts to equalize pressure by moving air from an area of high pressure to an area
+of low pressure.
+The larger the pressure difference, the stronger the wind and, as a
+result, the day-to-day wind can range from the gentlest breeze around an inland air-
+field to storm force winds over the water.
+
+
+1-9 - The greater pressure changes with horizontal difference, the stronger the wind
+
+Wind has both speed and direction, so for aviation purposes several conventions
+have been adopted.
+Wind direction is always reported as the direction from which the
+wind  is  blowing  while  wind  speed  is  the  average  steady  state  value  over  a  certain
+length of time.
+Above the surface, the wind tends to be relatively smooth and changes direction
+and speed only in response to changes in pressure.
+At the surface, however, the wind
+is affected by friction and topography.
+Friction has a tendency to slow the wind over
+rough  surfaces  whereas  topography, most  commonly, induces  localized  changes  in
+direction and speed.
+
+
+When a section of the troposphere, hundreds of miles across, remains stationary or
+moves slowly across an area having fairly uniform temperature and moisture, then the
+
+BC-E  11/12/05  11:28 PM  Page 7
+
+LAKP-British Columbia
+
+7
+
+air takes on the characteristics of this surface and becomes known as an air mass.
+Although the moisture and temperature characteristics of an air mass are relatively
+uniform, the horizontal weather may vary due to different processes acting on it.
+It is
+quite possible for one area to be reporting clear skies while another area is reporting
+widespread thunderstorms.
+
+
+Across this transition zone temperature, moisture content,
+pressure, and wind can change rapidly over a short distance.
+
+
+Icing
+
+One  of  simplest  assumptions  made  about  clouds  is  that  cloud  droplets  are  in  a 
+liquid form at temperatures warmer than 0°C and that they freeze into ice crystals
+within a few degrees below zero.
+In reality, however, 0°C marks the temperature below
+which water droplets become supercooled and are capable of freezing.
+While some 
+of the droplets actually do freeze spontaneously just below 0°C, others persist in the
+liquid state at much lower temperatures.
+
+
+Aircraft  icing  occurs  when  supercooled  water  droplets  strike  an  aircraft  whose
+temperature is colder than 0°C.
+• restriction of visibility as windshield glazes over.
+
+
+The Freezing Process
+
+When  a  supercooled  water  droplet  strikes  an  aircraft  surface, it  begins  to  freeze,
+releasing latent heat.
+The lower the air temperature and the colder the aircraft surface, the
+greater the fraction of the droplet that freezes immediately on impact.
+In general, the max-
+imum potential for icing occurs with large droplets at temperatures just below 0°C.
+
+Fig.
+2-2 - Freezing of supercooled droplets on impact
+
+Types of Aircraft Ice
+
+Rime Ice 
+
+Rime ice is a product of small droplets where each droplet has a chance to freeze
+completely  before  another  droplet  hits  the  same  place.
+BC-E  11/12/05  11:28 PM  Page 11
+
+LAKP-British Columbia
+
+11
+
+Clear Ice
+
+In the situation where each large droplet does not freeze completely before addi-
+tional  droplets  become  deposited  on  the  first, supercooled  water  from  each  drop
+merges and spreads backwards across the aircraft surface before freezing completely
+to form an ice with high adhesive properties.
+Mixed Ice
+
+When the temperature and the range of droplet size vary widely, the ice that forms
+is a mixture of rime ice and clear ice.
+(b) Temperature Structure in the Cloud
+
+Warm air can contain more water vapour than cold air.
+The temperature structure in a cloud has a significant effect on the size and num-
+ber of droplets.
+Larger supercooled droplets begin to freeze spontaneously around
+-10°C with the rate of freezing of all size of droplets increasing rapidly as temper-
+atures  fall  below  -15°C.
+The
+exceptions are clouds with very strong vertical updrafts, such as towering cumulus
+or cumulonimbus, where liquid water droplets can be carried to great heights before
+freezing.
+
+
+2-4 - Distribution of water droplet-ice crystals in cloud
+
+(1) Within large cumulus and cumulonimbus clouds:
+
+• at temperatures between 0°C and -25°C, severe clear icing likely.
+
+
+• at temperatures between -25°C and -40°C, light rime icing likely; small possi-
+bility of moderate to severe rime or mixed icing in newly developed clouds.
+
+
+• at temperatures below -40°C, little chance of icing.
+
+
+Supercooled Large Drop Icing 
+
+Supercooled large drop (SLD) icing has, until fairly recently, only been associated
+with freezing rain.
+It was
+found  that  large  cloud  drops, the  size  of  freezing  drizzle  drops, could  exist  within
+some stratiform cloud layers, whose cloud top is usually at 10,000 feet or less.
+The air
+temperature within the cloud (and above) remains below 0°C but warmer than -18°C
+throughout the cloud layer.
+The pres-
+ence of freezing drizzle underneath, or liquid drizzle when the surface air tempera-
+ture is slightly above 0°C, is a sure indication of SLD icing within the cloud.
+These low-level clouds often
+produce drizzle or freezing drizzle.
+
+
+If  the  air  temperature  at  cloud  level  is  below  freezing,
+icing will occur in those clouds that produce a glory.
+
+
+Other Forms of Icing
+
+(a) Freezing Rain and Ice Pellets
+
+Freezing rain occurs when liquid water drops that are above freezing fall into a
+layer of air whose temperature is colder than 0°C and supercool before hitting
+some object.
+The most common scenario leading to freezing rain in British
+Columbia is “warm overrunning”.
+In such a scenario, rain that falls into the
+cold air supercools, resulting in freezing rain that can last for hours especially if
+cold air continues to drain into the area from the surrounding terrain.
+When
+the cold air is sufficiently deep, the freezing raindrops can freeze completely
+before reaching the surface causing ice pellets.
+Pilots should be aware, however,
+that ice pellets at the surface imply freezing rain aloft.
+(b) Freezing Drizzle or Snow Grains
+
+Freezing drizzle is different from freezing rain in that the water droplets are
+smaller.
+Another important difference is that freezing drizzle may develop in air
+masses whose entire temperature profile is below freezing.
+In other words,
+freezing drizzle can occur without the presence of a warm layer (above 0°C)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+BC-E  
+In this case, favorable areas for the development of freezing drizzle are in
+moist maritime air masses, preferably in areas of moderate to strong upslope
+flow.
+The icing associated with freezing drizzle may have a significant impact
+on aviation.
+Similar to ice pellets, snow grains imply the presence of freezing
+drizzle aloft.
+
+
+Wet snow, however, can freeze hard to an aircraft surface that is
+at subzero temperatures and be extremely difficult to remove.
+Wet snow can also freeze to the windscreens
+making visibility difficult to impossible.
+
+
+Freezing Spray
+
+Freezing spray develops over open water when there is an outbreak of Arctic
+air.
+While the water itself is near or above freezing, any water that is picked up
+by the wind or is splashed onto an object will quickly freeze, causing a rapid
+increase in weight and shifting the centre of gravity.
+
+
+(e) Freezing Fog
+
+Freezing fog is a common occurrence during the winter.
+Fog is simply “a cloud
+touching the ground” and, like its airborne cousin, will have a high percentage
+of supercooled water droplets at temperatures just below freezing (0°C to -10°C).
+
+Aircraft landing, taking off, or even taxiing, in freezing fog should anticipate
+rime icing.
+
+
+(b) Precipitation
+
+Rain can reduce visibility, however, the restriction is seldom less than one mile
+other than in the heaviest showers beneath cumulonimbus clouds.
+Blowing snow is a product of strong winds picking up the snow
+particles and lifting them into the air.
+(i) Radiation Fog
+
+Radiation fog begins to form over land usually under clear skies and light
+winds typically after midnight and peaks early in the morning.
+If an abundance of condensation
+nuclei is present in the atmosphere, radiation fog may develop before the
+temperature-dewpoint spread reaches zero.
+BC-E  11/12/05  11:28 PM  Page 18
+
+18
+
+CHAPTER TWO 
+
+Photo 2-2 - Radiation fog in a valley
+(ii) Precipitation or Frontal Fog
+
+credit: Alister Ling
+
+Precipitation fog, or frontal fog, forms ahead of warm fronts when precipi-
+tation falls through a cooler layer of air near the ground.
+The precipitation
+saturates the air at the surface and fog forms.
+Breaks in the precipitation
+usually results in the fog becoming thicker.
+
+(iii) Steam Fog 
+
+Steam fog forms when very cold arctic air moves over relatively warmer
+water.
+In con-
+ditions of light winds and temperatures colder than -30°C or so, water vapour
+from manmade sources or cracks in ice-covered rivers can form widespread
+and persistent ice fog.
+(d) Snow Squalls and Streamers
+
+Snow squalls are relatively small areas of heavy snowfall.
+Movement of these snow squalls can gen-
+erally be tied to the mean winds between 3,000 and 5,000 feet.
+2-6 - Snowsqualls building over open water
+
+Wind, Shear and Turbulence
+
+The “why” of winds are quite well understood.
+It is the daily variations of the winds,
+where they blow and how strong, that remains a constant problem for meteorologists
+to unravel.
+The problem becomes even more difficult when local effects such as wind
+flow  through  coastal  inlets  or  in  mountain  valleys  are  added  to  the  dilemma.
+The
+result of these effects can give one airport persistent light winds while another has
+nightly episodes of strong gusty winds.
+
+
+Stability and the Diurnal Variation in Wind
+
+
+In a stable weather pattern, daytime winds are generally stronger and gustier than
+nighttime winds.
+During the day, the heating from the sun sets up convective mixing
+which carries the stronger winds aloft down to the surface and mixes them with the
+slower surface winds.
+This causes the surface wind to increase in speed and become
+gusty, while at the same time reducing the wind speeds aloft in the mixed layer.
+
+
+After sunset, the surface of the earth cools which, in turn, cools the air near the sur-
+face resulting in the development of a temperature inversion.
+This inversion deepens
+as cooling continues, ending the convective mixing and causing the surface winds to
+slacken.
+
+
+BC-E  11/12/05  11:28 PM  Page 20
+
+20
+
+CHAPTER TWO 
+
+Wind Shear
+
+Wind shear is nothing more than a change in wind direction and/or wind speed
+over the distance between two points.
+Significant shearing can occur when the surface wind blowing along a valley varies
+significantly from the free flowing wind above the valley.
+2-7 - Wind shear near the top of a valley
+
+Updrafts and downdrafts also induce shears.
+BC-E  11/12/05  11:28 PM  Page 21
+
+LAKP-British Columbia
+
+21
+
+Mechanical turbulence is a form of shear induced when a rough surface disrupts the
+smooth wind flow.
+The amount of shearing and the depth of the shearing layer depends
+on the wind speed, the roughness of the obstruction and the stability of the air.
+
+
+The Relationship Between Wind Shear and Turbulence
+
+Turbulence is the direct result of wind shear.
+Low-Level Jets - Frontal
+
+In  developing  low  pressure  systems, a  narrow  band  of  very  strong  winds  often
+develops just ahead of the cold front and above the warm frontal zone.
+Meteorologists
+call these bands of strong winds “low-level jets”.
+Wind speeds associated with
+low-level  jets  can  reach  as  high  as  100  knots  in  more  intense  storms.
+Critical periods for low-level windshear or turbulence
+with these features are one to three hours prior to a cold frontal passage.
+2-9 -  Complex winds around low level jet can result in 
+                significant low-level wind shear and turbulence 
+
+Low-Level Jets - Nocturnal
+
+There is another type of low-level jet known as “the low-level nocturnal jet”.
+This
+jet  is  a  band  of  relatively  high  wind  speeds, typically  centred  at  altitudes  ranging
+between 700 and 2,000 feet above the ground (just below the top of the nocturnal
+inversion) but on occasion can be as high as 3,000 feet.
+Wind speeds usually range
+between 20 and 40 knots but have been observed up to 60 knots.
+
+
+The winds just below the top of the inversion will begin to
+increase just after sunset, reach its maximum speed a couple of hours after midnight,
+then dissipate in the morning as the sun’s heat destroys the inversion.
+
+
+Topographical Effects on Wind
+
+(a) Lee Effects
+
+When the winds blow against a steep cliff or over rugged terrain, gusty turbu-
+lent winds result.
+Eddies often form downwind of the hills, which create sta-
+tionary zones of stronger and lighter winds.
+These zones of strong winds are
+fairly predictable and usually persist as long as the wind direction and stability
+of the air stream do not change.
+The lighter winds, which occur in areas called
+wind shadows can vary in speed and direction, particularly downwind of higher
+
+BC-E  11/12/05  11:28 PM  Page 23
+
+LAKP-British Columbia
+
+23
+
+hills.
+In the lee of the hills, the wind is usually gusty and the wind direction is
+often completely opposite to the wind blowing over the top of the hills.
+The winds that blow well above the surface of the earth are not strongly influ-
+enced by the presence of the earth itself.
+Closer to the earth, however, frictional
+effects decrease the speed of the air movement and back the wind (turns the
+wind direction counter-clockwise) towards the lower pressure.
+For example, in
+the northern hemisphere, a southerly wind becomes more southeasterly when
+blowing over rougher ground.
+There can be a significant reduction in the wind
+speed over a rough terrain when compared to the wind produced by the same
+pressure gradient over a relatively smooth prairie.
+
+
+2-11 - Friction effects
+
+(c) Converging Winds
+
+When two or more winds flow together or converge, a stronger wind is created.
+
+BC-E  11/12/05  11:28 PM  Page 24
+
+24
+
+CHAPTER TWO 
+
+10 KT
+
+15 KT
+
+25 KT
+
+Fig. 2-12 - Converging winds(cid:0)
+
+(d) Diverging Winds
+
+A divergence of the air stream occurs when a single air stream splits into two or
+more streams.
+2-13 - Diverging winds(cid:0)
+
+(e) Corner Winds 
+
+When the prevailing wind encounters a headland
+, there is a tendency for the
+wind to curl around the feature.
+(cid:0)
+(cid:0)
+BC-E  11/12/05  11:28 PM  Page 25
+
+LAKP-British Columbia
+
+25
+
+Fig. 2-14 - Corner winds
+
+(f ) Funnelled or Gap Winds
+
+When winds are forced to flow through a narrow opening or gap, such as an
+inlet or narrow section of a pass, the wind speed will increase and may even
+double in strength.
+2-15 - Funnelled winds
+
+(g) Channelled Winds
+
+The topography can also change the direction of the winds by forcing the 
+flow along the direction of a pass or valley.
+(h) Sea and Land Breezes
+
+Sea and land breezes are only observed under light wind conditions, and
+depend on temperature differences between adjoining regions.
+
+
+2-17 - Land breeze
+
+Both sea and land breezes can be influenced by channelling and funnelling
+resulting in almost frontal-like conditions, with sudden wind shifts and gusty
+winds that may reach up to 50 knots.
+Example of this can be found near the
+larger lakes in BC are often referred to as “lake effect winds”.
+
+
+(i) Anabatic and Katabatic Winds
+
+
+As a result, the winds blow up slope.
+
+These daytime, upslope winds are called anabatic winds.
+An anabatic wind, if extended to sufficient height, will produce cloud.
+In
+addition, such a wind offers additional lift to aircraft and gliders.
+
+
+2-18 - Anabatic winds(cid:0)
+
+
+If the
+valley floor is sloping, the winds will move along the valley towards lower ground.
+
+The cool night winds are called drainage winds, or katabatic winds, and are often
+quite  gusty  and  usually  stronger  than  anabatic  winds.
+Some  valley  airports  have
+windsocks situated at various locations along their runways to show the changeable
+conditions due to the katabatic flow.
+
+
+2-19 - Katabatic winds(cid:0)
+
+(cid:0)
+(cid:0)
+BC-E  11/12/05  11:28 PM  Page 28
+
+28
+
+CHAPTER TWO 
+
+(j) Glacier Winds
+
+Under extreme cooling conditions, such as an underlying ice cover, the katabat-
+ic winds can develop to hazardous proportions.
+As the ice is providing the cool-
+ing, a shallow wind of 80 knots or more can form and will persist during the
+day and night.
+2-20 - Glacier winds
+
+It is important to recognize that combinations of these effects can operate at any
+given  time.
+Katabatic  winds  are  easily  funnelled  resulting  in  winds  of  unexpected
+directions and strengths in narrow passes.
+Around glaciers in the summer, wind fields
+can be chaotic as katabatic winds from the top of the glacier struggle for dominance
+with localized convection or anabatic winds induced by heated rock slopes below the
+ice.
+The Formation of Lee Waves
+
+The development of lee waves requires that several conditions be met:
+
+(a) the wind direction must be within 30 degrees of perpendicular to the mountain
+or hill.
+BC-E  11/12/05  11:28 PM  Page 29
+
+LAKP-British Columbia
+
+29
+
+(b) wind speed should exceed 15 knots
+
+for small hills and 30 knots for moun-
+tain ridges.
+A jet stream with its asso-
+ciated strong winds below the jet axis
+is an ideal situation.
+
+
+(c) the wind direction should be constant
+while increasing in speed with height
+throughout the troposphere.
+
+
+2-21 - Angles for lee wave (cid:0)
+                 development
+
+While all these conditions can be met at any time of the year, winter wind speeds
+
+are generally stronger resulting in more dangerous lee waves.
+
+
+Characteristics of Lee Waves
+
+Once a lee wave pattern has been established, it follows several basic rules:
+
+• stronger the wind, the longer the wavelength.
+The typical wavelength is about 6
+
+miles but can vary from as short as 3 miles to as long as 15 miles.
+
+• position of the individual wave crests will remain nearly stationary with the
+wind blowing through them as long as the mean wind speed remains nearly
+constant.
+
+
+• wind speed is stronger through the wave crest and slower through the wave
+
+trough.
+
+
+• downdrafts are frequently found on the downwind side of the obstruction.
+
+
+2-23 - Stronger wind in wave crest in lee waves
+
+Fig.
+On occasion, when the shear results in turbulence, the lenticular cloud will take
+on a ragged and wind torn appearance.
+
+
+It will appear as a long
+line of stratocumulus, a few miles downwind and parallel to the ridge.
+When the winds blow across a
+front, it tends to move with the wind.
+When winds blow parallel to a front, the front
+moves slowly or even becomes quasistationary.
+When this happens, the weather at a front can vary
+from  clear  skies  to  widespread  cloud  and  rain  with  embedded  thunderstorms.
+Insufficient moisture
+results in “dry” or “inactive” fronts that may be marked by only changes of tem-
+perature, pressure and wind.
+Stable air will produce stratiform cloud accompanied by
+steady precipitation and little or no turbulence.
+
+
+(c) slope of the front
+
+A shallow frontal surface such as a warm front produces widespread cloud and
+steady precipitation.
+Such areas are susceptible to the formation of low stratus
+cloud and fog and may have an area of freezing precipitation.
+Passage of such a
+front is usually noted by the end of the steady precipitation, followed by a slow
+reduction in the cloud cover.
+
+Frontal Waves and Occlusions
+
+Small-scale changes in pressure along a front can create localized alterations in the
+wind  field  resulting  in  a  bending  of  the  front.
+Such features, known as stable waves, tend to move rapidly
+(25 to 60 knots) along the front and are accompanied by a localized area of
+heavier cloud and precipitation.
+The air mass stability around the wave deter-
+mines the cloud and precipitation type.
+BC-E  11/12/05  11:28 PM  Page 34
+
+34
+
+CHAPTER TWO 
+
+Cold Air
+
+◗
+
+▼
+
+◗
+
+▼
+
+◗
+
+▼
+
+◗
+
+▼
+
+◗
+
+▼
+
+◗
+
+▼
+
+◗
+
+◗
+
+Warm Air
+
+Cold Air
+▼
+
+▼
+
+◗
+
+▼
+▼
+Warm Air
+
+◗
+
+◗
+
+▼
+
+▼
+
+◗
+
+▼
+
+◗
+
+◗
+
+▼
+
+▼
+
+Cold
+Air
+▼
+▼
+▼
+Warm Air
+
+▼
+
+▼
+
+▼
+
+▼
+
+Wave
+Crest
+
+◗
+
+◗
+
+◗
+
+◗
+
+◗
+
+Warm
+Sector
+
+◗ ◗
+
+◗
+
+◗
+
+▼
+
+▼
+
+◗
+
+◗
+
+Cold Air
+
+◗
+
+◗
+◗
+
+◗
+
+◗
+
+▼
+Warm Air
+
+▼
+
+◗
+
+◗ ◗
+
+Fig 2-27 - Stable wave
+
+(b) Unstable (Occluding) Waves
+
+Given additional support for development, such as an upper trough, the surface
+pressure will continue to fall near the frontal wave, causing the formation of a
+low pressure centre and strengthening winds.
+The wind behind the cold front
+increases causing the cold front to accelerate and begin to wrap around the low.
+
+Along the occlusion, the weather is a combination of a warm front and a cold front;
+that  is, a  mix  of  layer  clouds  with  steady  precipitation  and  embedded  convective
+clouds with enhanced showery precipitation.
+2-29 - Frontal cross-sections 
+
+COOL
+AIR
+
+COLD
+AIR
+
+D
+
+E
+
+COOL
+AIR
+
+F
+
+Thunderstorms
+
+No weather encountered by a pilot can be as violent or threatening as a thunder-
+storm.
+Thunderstorms produce many hazards to the aviation community, and since
+they  are  so  commons  in  summer  time, it  is  important  that  pilots  understand  their
+nature  and  how  to  deal  with  them.
+To  produce  a  thunderstorm, there  are  several
+ingredients which must be in place.
+These include:
+
+• An unstable airmass
+• Moisture in the low levels
+• Something to trigger them, e.g. daytime heating, upper level cooling
+• For severe thunderstorms, wind shear.
+
+
+No weather encountered by a pilot can be as unpredictable or as violent as a thun-
+derstorm.
+There are few severe weather hazards that a thunderstorm does not pack,
+
+BC-E  11/12/05  11:28 PM  Page 36
+
+36
+
+CHAPTER TWO 
+
+and  with  thunderstorms  being  common, it  is  important  that  a  pilot  understands  a 
+little about their nature and how to deal with them.
+
+
+The Life Cycle of a Thunderstorm
+
+The  thunderstorm, which  may  cover  an  area  ranging  from  5  miles  in  diameter 
+to, in the extreme case, as much as 50 miles, usually consists of two or more cells in
+different stages of their life cycle.
+2-30 -Top-down view of a thunderstorm "family" containing 
+                 cells in different stages of development
+
+(a) Cumulus Stage
+
+
+These updrafts can reach values
+of up to 3,000 feet per minute and cause the cloud to build rapidly upwards,
+carrying supercooled water droplets well above the freezing level.
+(b) Mature Stage
+
+The appearance of precipitation beneath the base of the cell and the develop-
+ment of the downdraft mark the transition to this stage.
+2-33- Dissipating Stage
+
+The downdraft, when it hits the ground, spreads out in all directions but travels
+fastest in the direction that the storm is moving.
+The leading edge of this cold
+air is called the “gust front” and can extend ten to fifteen miles, or even further,
+when channelled along mountain valleys in front of the storm.
+A rapid drop in
+temperature and a sharp rise in pressure characterize this horizontal flow of
+gusty surface winds.
+
+
+Strong upper winds at the tropopause level assist in the spreading out
+of this flow in the downwind direction, producing the traditional anvil-shaped
+top.
+The thunderstorm may have a base measuring from 5 miles to more than 
+15 miles in diameter and a top ranging from as low as 20,000 feet to more than
+50,000 feet.
+The mature stage is the most violent stage in the life a thunderstorm
+and usually lasts for 20 to 30 minutes.
+
+
+However, at times, the upper winds increase strongly with height causing
+the cell to tilt.
+In such a case, the precipitation falls through only a portion of
+the cell, allowing the updraft to persist and reach values of 10,000 feet per
+minute.
+Such cells are referred to as “steady state storms” that can last for sever-
+al hours and produce the most severe weather, including tornadoes.
+
+
+At this
+stage the anvil, which is formed almost exclusively of ice crystals, often detach-
+es and drifts off downwind.
+
+
+BC-E  11/12/05  11:28 PM  Page 38
+
+38
+
+CHAPTER TWO 
+
+Types of Thunderstorms
+
+(a) Air Mass Thunderstorms
+
+These thunderstorms form within a warm, moist air mass and are non-frontal
+in nature.
+There is also a second form of air
+mass thunderstorm that is created by cold advection.
+Of these two, it is 
+the movement of cold air over warm water that results in the most frequent
+occurrence of this type of thunderstorm.
+Since the heating is constant, these
+thunderstorms can form at any time of day or night.
+
+Fig.
+2-35 - Cool air heated by 
+                 warm water
+
+(b) Frontal Thunderstorms
+
+These thunderstorms form either as the result of a frontal surface lifting an
+unstable air mass or a stable air mass becoming unstable, as a result of the lift-
+ing.
+Frontal thunderstorms can be found along cold fronts, warm fronts and
+trowals.
+These thunderstorms tend to be numerous in the area, often form in
+lines, are frequently embedded in other cloud layers, and tend to be active dur-
+ing the afternoon and well into the evening.
+Cold frontal thunderstorms are
+normally more severe than warm frontal thunderstorms.
+
+
+2-36 - Warm frontal thunderstorms
+
+(c) Squall Line Thunderstorms 
+
+A squall line (or line squall) is a line of thunderstorms.
+Squall lines can be sev-
+eral hundred miles long and have lower bases and higher tops than the average
+thunderstorm.
+Violent combinations of strong winds, hail, rain and lightning
+makes them an extreme hazard not only to aircraft in the air, but also to those
+parked uncovered on the ground.
+
+Squall line thunderstorms are most often found 50 to 300 miles ahead of a
+fast-moving cold front but can also be found in accompanying low pressure
+troughs, in areas of convergence, along mountain ranges and even along sea
+breeze fronts.
+
+
+(d) Orographic Thunderstorms
+
+Orographic thunderstorms occur when moist, unstable air is forced up a moun-
+tain slope.
+In such
+situations, these storms frequently produce copious amounts of hail.
+
+
+2-37 - Orographic thunderstorms
+
+BC-E  11/12/05  11:28 PM  Page 40
+
+40
+
+CHAPTER TWO 
+
+(e) Nocturnal Thunderstorms 
+
+Nocturnal thunderstorms are those that develop during or persist all night.
+
+Severe Thunderstorms
+
+The discussion of the life cycle of a thunderstorm does not fit the case of those that
+seem to last for extended periods of time and are most prolific in producing torna-
+does  and  large  hail.
+A  particular  type  of  severe  thunderstorm  is  known  as  a
+“Supercell”.
+
+
+A severe storm typically begins as a multi-cellular thunderstorm.
+However, because
+the upper winds increase strongly with height, the cell begins to tilt.
+This causes the
+descending  precipitation  to  fall  through  only  a  portion  of  the  cell, allowing  the
+updraft to persist.
+
+
+The third and final stage of storm’s evolution is the collapse phase.
+It is at this time that the strongest tornadoes and straight-line winds occur.
+
+
+Fortunately these types of storms are rare in BC and are almost exclusivily confined
+
+to the central and northern part of the province.
+
+
+Thunderstorm Hazards 
+
+The  environment  in  and  around  a  thunderstorm  can  be  the  most  hazardous
+encountered by an aircraft.
+In addition to the usual risks such as severe turbulence,
+severe  clear  icing, large  hail, heavy  precipitation, low  visibility  and  electrical  dis-
+charges within and near the cell, there are other hazards that occur in the surround-
+ing environment.
+
+
+(a) The Gust Front
+
+The gust front is the leading edge of any downburst and can run many miles
+ahead of the storm.
+Aircraft taking off, landing, or oper-
+ating at low levels can find themselves in rapidly changing wind fields that
+quickly threaten the aircraft’s ability to remain airborne.
+In a matter of seconds,
+the wind direction can change by as much 180°, while at the same time the
+wind speed can approach 100 knots in the gusts.
+Extremely strong gust fronts
+can do considerable damage on the ground and are sometimes referred to as
+“plow winds.”
+A downburst is a concentrated, severe downdraft which accompanies a
+descending column of precipitation underneath the cell.
+When it hits the
+ground, it induces an outward, horizontal burst of damaging winds.
+A macroburst is a downdraft of air with an outflow diameter of 2.2 nautical
+miles, or greater, with damaging winds that last from 5 to 20 minutes.
+Microbursts have an outflow diameter of less
+than 2.2 nautical miles and peak winds lasting from 2 to 5 minutes.
+Such winds
+can literally force an aircraft into the ground.
+
+
+External Downdraft
+due to evaporation
+cooling
+
+Cloud
+
+Direction of travel
+
+Inflow to storm
+
+Cold air
+
+Outflow from storm
+
+Gust front
+
+Fig.
+2-38 - “Steady state” tilted thunderstorm
+
+Fig.
+2-39 - The gust front
+
+(c) Funnel Cloud, Tornado and Waterspout
+
+The most violent thunderstorms draw air into their base with great vigor.
+The
+incoming air tends to have some rotating motion and, if it should become con-
+centrated in a small area, forms a rotating vortex in the cloud base in which
+wind speeds can exceed 200 knots.
+Any severe thunderstorm should be avoided be a wide margin as all are extremely
+
+hazardous to aircraft.
+
+
+BC-E  11/12/05  11:28 PM  Page 42
+
+42
+
+CHAPTER TWO 
+
+Photo 2-3 - Severe thunderstorm  
+
+credit Alister Ling
+
+F-Scale 
+Number
+
+FO 
+
+F1 
+
+ F2 
+
+F3
+
+F4 
+
+ Intensity Phrase  Wind Speed 
+
+ Type of Damage Done
+
+(kts)
+
+35-62
+
+Weak
+Tornado 
+
+Moderate
+ Tornado
+
+ 63-97  
+
+
+The lower limit is the beginning of hurricane wind speed; 
+peels surface off roofs; mobile homes pushed off foundations 
+or overturned; moving autos pushed off the roads; attached 
+garages may be destroyed.
+
+ 
+Temperature Inversion and Cold Air Outbreaks
+
+Low level inversions are common in most areas during the fall and winter due to
+very cold outbreaks and strong radiation cooling.
+At the same time, the convection enhances any snowfall result-
+ing in areas of extremely poor visibility.
+
+
+In conditions
+
+BC-E  11/12/05  11:28 PM  Page 44
+
+44
+
+CHAPTER TWO 
+
+of light winds and temperatures colder than -30°C or so, such as those that might be
+found  in  Fort  Nelson, water  vapour  from  anthropogenic  sources  (man-made)  can
+form widespread and persistent ice fog or ice crystals.
+In light winds, the visibility can
+be reduced to near zero, closing an airport for hours.
+
+
+Blowing Snow
+
+Blowing  snow  can  occur  almost  anywhere  where  dry  snow  can  be  picked  up  by
+strong winds but poses the greatest risk away from the forested areas of the Prairies.
+
+As winds increase, blowing snow can, in extreme conditions, reduce horizontal visi-
+bility at runway level to less than 100 feet.
+
+
+As  the  aircraft  moves  into  an  area  with  a  strong  low-level
+inversion  and  very  cold  surface  temperatures, the  plane  descends  gradually  as  it 
+follows the constant pressure surface corresponding to an indicated altitude of 10,000
+
+BC-E  
+This ash is then spread downwind by the winds aloft
+in the troposphere and the stratosphere.
+
+
+Windscreens have been abraded until they become opaque.
+
+
+Deformation Zone 
+
+A deformation zone is defined as “an area in the atmosphere where winds converge
+along one axis and diverge along another.
+Deformation zones (or axis of deformation
+as they are sometimes referred to) can produce clouds and precipitation.”
+More sim-
+ply put, we are referring to areas in the atmosphere where the winds flow together
+(converge) or apart (diverge), resulting in areas where air parcels undergo stretching
+along  one  axis  and  contraction  along  another  axis.
+Meteorologically, this  is  an  area
+where significant cloud amounts, precipitation, icing and turbulence can occur to in
+the induced vertical currents.
+
+
+In this area, thick cloud layers form giving wide-
+
+BC-E  11/12/05  11:28 PM  Page 46
+
+46
+
+CHAPTER TWO 
+
+spread precipitation.
+Depending on the temperatures aloft, this cloud may also con-
+tain significant icing.
+During the summer, the edges of this cloud area will often have
+thunderstorms  develop  in  the  afternoon.
+If  this  area  of  cloud  is  slow  moving, or
+should it interact with terrain, then the upslope areas can see prolonged precipitation.
+
+Winds  shear  in  the  ascending  air  will  often  give  turbulence  in  the  middle-and 
+higher-levels.
+
+
+Precipitation here tends to be more inter-
+mittent or showery.
+Wind shear can also cause turbulence but most often it is con-
+fined to the low-levels.
+
+
+What are the predominate winds at
+Penticton?  
+The ocean also supplies heat which acts to moderate the temperatures along the
+coast, as compared to the inland areas.
+In turn, this moderation of temperature plays
+a significant role in determining just what type of precipitation will fall over the area.
+
+This causes the low to intensify resulting in rapidly falling pres-
+sures and strengthening winds.
+
+
+Storms  approaching
+the  coast  are  lifted  rapidly  along  the  windward  slopes, resulting  in  widespread 
+precipitation.
+Much of the heaviest precipitation occurs along the western slopes of
+the Insular Mountains and the Olympic Mountains of Northern Washington State
+(elevation  6,000  to  8,000  feet).
+The  variability  in  annual  precipitation  between 
+upslope  areas  and  subsident “rain  shadow” areas  is  significant.
+Tofino, on  the  west
+coast of Vancouver Island, receives an average of 3,000 millimetres of precipitation
+each  year  while  Nanaimo, on  the  east  coast  of  Vancouver  Island, receives  a  paltry
+1,150 millimetres.
+Lacking the sheltering bulk of Vancouver Island, ocean storms can run right
+up onto the coast venting their full fury.
+
+
+Page 53
+
+LAKP-British Columbia
+
+53
+
+The heat from the ocean strongly moderates coastal temperatures; however, outflow
+winds through the inland valleys can easily carry cold air from the interior.
+During
+the winter this clash between warmer coastal air and cold air flowing out of the inte-
+rior can make for extremely variable precipitation types.
+
+
+Sitting to the lee of these mountains, subsi-
+dence  has  reduced  the  precipitation  so  that  much  of  the  area  is  arid  or  semi-arid.
+
+
+BC-E  11/12/05  11:28 PM  Page 54
+
+54
+
+CHAPTER THREE 
+
+Annual precipitation ranges between 250 and 360 millimetres per year and tends to
+be divided up nearly equally between the various months.
+
+
+3-1 - The most notable effect of mountains is their impact on precipitation
+
+Summer  in  this  area  is  noted  for  the  incursion  of  the  Pacific  High  and  the 
+development of hot and dry weather.
+The weather tends to be dry and sunny with late
+afternoon or evening thunderstorms occurring mainly along the ridges.
+Eventually,
+the  Pacific  High  does  break  down  and, when  this  happens, it  is  common  for 
+widespread thunderstorms to develop as cooler, moist air begins to move into the area.
+
+
+This being said, the temperatures in
+the area do tend to hover around freezing, and the cold surface layer can be difficult
+to remove, as the warm air moving in from the coast rides over the top of the cold air.
+
+The only real warming occurs with southerly winds, but this respite only lasts a few
+days as cold air is quick to re-establish itself in the valley bottoms.
+
+
+On  the  small  scale, the  changing  topographical  features  such  as  elevation,
+orientation  to  the  mean  winds, slope, and  exposure  all  combine  to  alter  the  local 
+climate.
+Higher  elevations  tend  to  have  lower  average  temperatures  and  increased
+precipitation.
+All  but  the  strongest
+incursions of Arctic air are held out of the southern British Columbia interior, main-
+taining temperatures much above those on the Prairies.
+
+
+Moderate  to  heavy  thunder-
+storms are not uncommon and, on occasion, a tornado or funnel cloud will be report-
+ed in the Prince George area.
+The occasional cold low does
+move  across  the  area; however, giving  widespread  precipitation  and  cloudy, cool 
+conditions.
+Warm air moving eastward overtop
+the cold air will give snow but does little to moderate the temperature.
+Despite this,
+a strong southwesterly flow will produce Chinook conditions that drive temperatures,
+in such places as Fort St. John, above freezing.
+
+
+3-3 - Typical summer pattern
+
+The mean circulation of the upper level winds over British Columbia is the result
+of  two  semi-permanent  features.
+Complicating this simple relationship
+are the upper troughs of low pressure, upper ridges of high pressure and other weather
+systems  that  move  along  with  the  upper  winds, altering  or  disrupting  the  normal 
+pattern.
+
+
+In the winter, these troughs are at their strongest and frequently create broad
+areas of cloud with widespread precipitation.
+The vertical lift and upper level cooling produced by the trough
+will  intensify  any  preexisting  instability  in  the  atmosphere, and  some  of  the  worst
+summertime thunderstorms are produced when such a trough moves over a region
+that has already been destabilized by daytime heating.
+If an upper trough crosses an
+area where strong baroclinicity (temperature gradient) exists, it can set off a chain of
+events that results in the development of a surface low pressure system and/or frontal
+wave.
+These  will  further  enhance  the  cloud  and  precipitation.
+On average, 10 to 15 such storms will occur monthly during the winter.
+
+
+Winter Storms
+
+During the winter, low-pressure systems develop over the Pacific Ocean and move
+toward the coast.
+Most of these storms are either Gulf of Alaska lows, which tend to
+remain  well  offshore, or  coastal  lows  which  approach  the  coast  before  developing 
+rapidly.
+The  front  sweeps  over  the  coast  giving
+strong winds and widespread precipitation, especially along windward slopes.
+The actual track of any individual storm can vary somewhat from those shown.
+
+
+3-7 - Principal winter storm tracks are superimposed on a January 
+                mean sea-level pressure pattern
+
+Gulf of Alaska Lows
+
+Fig.
+The frontal system that accompanies the
+low continues eastward onto the coast, bringing widespread cloud, precipitation, and
+strong winds.
+Behind the cold front, a period of strong northwesterly winds of 35 to
+50 knots heralds the arrival of a colder, unstable airmass.
+
+
+3-9 - A typical sea-level pressure pattern for a coastal low and 
+              associated frontal system with wind pattern superimposed
+
+Coastal lows usually intensify very rapidly just before they move over the British
+Columbia coastal waters and can change from a very weak system into a severe storm
+in as little as 9 hours.
+On  the  coast, very  strong  winds  will
+occur usually to the east and southeast of the low, just ahead of the associated frontal
+system.
+Winds here may reach southeasterly 70 knots with gusts to 100 knots in the
+most severe storms.
+Often, a second band of strong winds occur behind the cold front
+in the area to the southwest of the low pressure centre.
+Here, winds may range up to
+65 knots from the west or northwest.
+This results in a strong wind event for the interior.
+
+
+The lows which follow this southern track can bring the strongest
+winds and heavy rains to the Vancouver and Victoria areas.
+
+
+3-10 - A typical winter pressure pattern shows a front crossing the 
+                 coast with an indication of the winds near the front  
+
+
+As the front moves inland, it tends to weaken due to subsidence to the lee of the
+Coastal Mountains but still gives steady or intermittent precipitation that will vary
+with the local temperatures
+
+Winter High Pressure Systems
+
+Surface high pressure systems are stronger in the winter than in the summer.
+Strong outflow winds occur through the mainland 
+                 inlets and near the mouth of the inlets.
+
+
+3-12 - Strong winds funnel down the main-
+land inlets often reaching speeds up to 60 knots
+
+Fig.
+3-13 - The end of an arctic outbreak 
+occurs when the cold air is forced back 
+inland by the arrival of warmer air being 
+driven ahead of a Pacific storm
+
+Inflow
+
+The end of an arctic outbreak occurs when the cold air is forced back inland by the
+arrival of warmer air being driven ahead of a Pacific storm.
+In response to this pressure fall, the out-
+flow  winds  will  gradually  ease  as  the  southeast  winds  strengthen  along  the  coast.
+
+During this transition
+time, from cold outflow to warm inflow, precipitation forecasting becomes very diffi-
+cult.
+Snow changes to rain but not without the chance of freezing rain.
+
+
+When a frontal system moves across the coast the rising pressures over the offshore
+waters induce an inflow wind through the coastal inlets.
+❅
+❅
+❅
+❅
+❅
+❅
+❅
+❅
+❅
+❅
+❅
+❅
+❅
+❅
+❅
+❅
+BC-E  11/12/05  11:28 PM  Page 69
+
+LAKP-British Columbia
+
+69
+
+Summer Weather
+
+In  the  summer  months  (May  to  September)  the  frequency  and  severity  of  the
+storms are much reduced.
+This  northward  shift  causes  the  main
+storm  track  to  shift  into  the  northern  Gulf  of  Alaska  and  across  northern  British
+Columbia.
+South  of  this  track, minor  frontal  systems, upper  troughs  and  thunder-
+storms  produce  most  of  the  weather.
+3-14 - A typical summer pressure pattern shows a front crossing the 
+                 coast with an indication of the winds near the front
+
+During the summer months, fronts tend to approach the coast from the northwest
+across the Gulf of Alaska.
+Southeast  winds  will  tend  to
+increase along the coast just ahead of the front, then shift into the northwest with its
+passage.
+The effect of this trough is
+to create a light, disorganized wind pattern as air flows toward the hottest locations.
+
+Along  the  coast, light  winds  in  the  morning  are  replaced  by  strengthening  inflow
+winds during the afternoon and evening in most inlets and valleys, as the cool coastal
+air is drawn towards the interior.
+Locations in BC with marked inflow winds are the
+Strait of Juan de Fuca, Portland Inlet, Howe Sound, through the Hope area and up
+the Fraser Canyon.
+
+
+When it does, it normally lies over Georgia Strait causing subsi-
+dent outflow winds from the interior which gives clear skies and light winds along the
+coast.
+
+
+After  a  few  days, the  thermal  trough  will  shift  back  into  the  interior  causing 
+westerly  winds  of  20  to  30  knots  through  Juan  de  Fuca  Strait  and  into  southern
+Georgia Strait.
+Sea fog and stratus will accompany these winds and may extend as far
+as Vancouver Airport and Boundary Bay.
+BC-E  11/12/05  11:28 PM  Page 71
+
+LAKP-British Columbia
+
+71
+
+Cold Lows
+
+A cold low is a large, nearly circular area of the atmosphere in which temperatures
+get colder toward the centre of the low, both at the surface and aloft.
+The significance of cold lows is that they produce large areas
+of cloud and precipitation, tend to persist in one location for prolonged periods of
+time and are difficult to predict.
+
+
+Along the
+deformation  zone  to  the  northeast  of  the  cold  low, the  enhanced  vertical  lift  will
+thicken the cloud cover and can produce widespread precipitation.
+In many cases, the
+deformation zone is where widespread and prolonged thunderstorm activity occurs.
+
+
+For float plane operation, this symbol is used to denote areas where winds and 
+significant waves can make landings and takeoffs dangerous or impossible.
+
+
+Turbulence symbol
+This standard symbol for turbulence is also used to indicate areas known for 
+significant windshear, as well as potentially hazardous downdrafts.
+
+
+Strong wind symbol (straight arrow)
+
+This arrow is used to show areas prone to very strong winds and also indicates the 
+typical direction of these winds.
+Where these winds encounter changing topography 
+(hills, valley bends, coastlines, islands), turbulence, although not always indicated, 
+can be expected.
+
+
+This symbol is similar to the strong wind symbol except that the winds are constricted 
+or channeled by topography.  
+In this case, winds in the narrow portion could be very 
+strong while surrounding locations receive much lighter winds.
+
+
+This standard symbol for snow shows areas prone to very heavy snowfall.
+
+
+Thunderstorm symbol (half circle with anvil top)
+
+This standard symbol for cumulonimbus (CB) cloud is used to denote areas 
+prone to thunderstorm activity. 
+
+
+South Coast
+
+PORT HARDY
+
+10,000 FT
+
+7000 FT
+
+5000 FT
+
+3000 FT
+
+2000 FT
+
+1500 FT
+
+1000 FT
+
+600 FT
+
+300 FT
+
+0 SEA LEVEL
+
+CAMPBELL RIVER
+
+COMOX
+
+PEMBERTON
+
+TOFINO
+
+NANAIMO
+
+VANCOUVER
+
+HOPE
+
+ABBOTSFORD
+
+VICTORIA
+
+Map 4-2 - South Coast
+
+For most of the year, the winds over the South Coast of BC are predominately from
+the southwest to west.
+During the summer, however, the Pacific High builds north-
+ward over the offshore waters altering the winds to more of a north to northwest flow.
+
+On the plus side, it is the bulk of Vancouver Island
+that takes the brunt of these storm, ameliorating their effect on the inner waters and
+mainland  areas.
+The question for meteorologists and pilots then becomes not “Will we
+get  precipitation?” but  “How  much  precipitation  will  we  get  and  what  type?”
+
+Typically, a band of cloud and light precipitation over
+the northern end of Vancouver Island may dissipate to just broken cloud and show-
+ers in the south.
+
+
+Rising
+pressures ahead of this ridge will then give a period of brisk northwest winds to the
+coast.
+The strongest northwest winds are often reported where the air stream is fun-
+nelled between the mountains of the mainland and Vancouver Island.
+This effect is
+particularly  noticeable  in  the  spring  months, as  the  fronts  still  retain  some  of  the
+strength of winter storms.
+
+
+Either track produces widespread cloud,
+showers  and  cool  temperatures.
+Although  not  frequent, thunderstorms  do  occur  along  the  coast  of  British
+Columbia in the summer.
+Air mass thunderstorms are the most common, tending to
+develop during the late afternoon or evening and drifting eastward along the sides of
+inlets or valleys.
+On occasion, frontal thunderstorms will move into the coastal areas.
+Many  of  the  mainland  valleys  experience  inflow  winds  in  the  summer  due  to 
+the intense heating of the air over the Southern Interior.
+However, as  the  thermal
+trough is forced inland, these inflow winds will occur on a daily basis, drawing low
+marine cloud into the inner coastal areas and even the mainland valleys.
+
+
+As it does, a strong
+north  to  south  temperature  gradient  is  established  that  will  provide  the  energy  for 
+significant development of approaching weather systems.
+
+
+Ahead of the approaching
+low, a warm front will spread extensive, deep-layered cloud, steady precipitation and
+strong  southeast  winds  across  the  area.
+With  the  passage  of  the  warm  front, the 
+precipitation becomes intermittent or ends completely, the lowest cloud layers break
+up  and  the  winds  shift  to  a  moderate  to  strong  south  to  southwest  direction.
+Finally, behind the cold front, strong gusty
+northwest winds often prevail.
+With the most active fronts, warm or cold, the winds
+can briefly rise to 60 knots with gusts above 80 knots at locations over the northern
+end of Vancouver Island.
+Of the two, the southeast winds tend to be the strongest,
+but they both can be very strong where channelling and coastal convergence occurs.
+
+
+Eventually, moist, tropical air is picked up by the upper winds from near
+the  tropics  and  carried  northeastward  onto  the  BC  coast.
+The  result  is  extremely
+heavy precipitation events where local rainfall amounts of 100 millimetres or more
+can occur..
+
+
+Photo 4-1 - Pineapple Express
+
+BC-E  11/12/05  11:28 PM  Page 79
+
+LAKP-British Columbia
+
+79
+
+Air mass thunderstorms occur most often during the winter, especially in the very
+cold air that follows the passage of a cold front.
+Winter  is  also  the  time  of “outflow  winds”.
+These  clear  skies 
+will then persist throughout the period of outflow winds.
+The strong winds funnel down the mainland inlets often reaching speeds of 25 to
+35 knots and occasionally rising as high as 50 knots.
+When the strong winds flow out
+from the mouths of the inlets they continue for some distance but gradually fan out
+and weaken.
+Extreme caution is advised when crossing coastal inlets during an out-
+flow  situation  as  the  winds  could  increase  very  abruptly  in  a  narrow  band  near  the
+mouth of the inlet.
+One hint is to watch for the telltale ripple or wave pattern pro-
+duced by these winds.
+
+
+The end of an arctic outbreak occurs when the cold air is forced back inland by the
+arrival of warmer air being driven ahead of an approaching storm.
+With cold air along
+the coast, the precipitation may start as snow but changes to either rain, or rain and
+snow  mixed, as  temperatures  moderate.
+Freezing  rain  can  also  occur  in  the  deeper
+mainland valleys and inlets (including the eastern end of the valley) until the cold air
+is fully scoured out by the approaching warmer air.
+
+
+Westerly winds through Cowichan Valley often turn southward along the run-
+way toward the valley and accelerate (15 knot wind becomes 25 knots).
+There are large hills on Pender Island where all winds, except southerlies, flow over
+
+hills resulting in downflow winds over the runway.
+
+
+While protected from the stronger surface winds found over the
+open water, it is susceptible to low-level mechanical turbulence and wind shear when
+winds aloft are strong.
+Most common during winter storm conditions, these hazards
+can be severe.
+Victoria airport, while somewhat protected from the common south-
+easterly winds, is more exposed to southerly and southwesterly winds and can expe-
+rience hazardous wind shear when significant winds aloft are from a conflicting direc-
+tion.
+
+
+In addition to the regular METARS, it is worthwhile for low flying traffic over the
+water to check the marine wind reports from Trial Island just the south of Victoria,
+Victoria Harbour, Discovery Island east of Victoria Harbour at the south end of Haro
+Strait, Kelp Reef in Haro Strait east of Victoria Airport, Saturna Island near Active
+Pass in the Gulf Islands, and Entrance Island north of Nanaimo.
+Though not certi-
+fied by Transport Canada for aviation weather, these sites, taken as a group, give a very
+good indication of the surface winds over the water.
+
+
+BC-E  11/12/05  11:28 PM  Page 82
+
+82
+
+CHAPTER FOUR 
+
+Vancouver Area Including Pitt Meadows, Langley and Boundary Bay
+
+HOWE 
+SOUND
+
+STRAIT OF 
+GEORGIA
+
+SQUAMISH
+SQUAMISH
+SQUAMISH
+
+10,000 FT
+
+7000 FT
+
+5000 FT
+
+3000 FT
+
+2000 FT
+
+1500 FT
+
+1000 FT
+
+600 FT
+
+300 FT
+
+0 SEA LEVEL
+
+INDIAN ARM
+INDIAN ARM
+INDIAN ARM
+
+VANCOUVER
+VANCOUVER
+VANCOUVER
+VANCOUVER
+
+SE
+
+PITT LAKE
+
+ALOUETTE
+ LAKE
+
+PITT MEADOWS
+PITT MEADOWS
+PITT MEADOWS
+
+STAVE 
+LAKE
+
+LANGLEY
+LANGLEY
+LANGLEY
+
+POINT ROBERTS
+
+SE
+
+BOUNDARY BAY
+
+ABBOTSFORD
+ABBOTSFORD
+ABBOTSFORD
+
+Map 4-4 - Vancouver Area Including Pitt Meadows, Langley and Boundary Bay
+
+As most systems move over the south coast from the west or southwest (upper flow,
+not the surface winds), the north side and east end of the Fraser Valley tend, due to
+upslope, to get greater amounts of cloud and precipitation producing widespread areas
+of low flying conditions.
+Strong winds at Vancouver are usually from either the west or southeast with the
+southeasterlies  tending  to  be  gusty  and  turbulent.
+West  winds  can  reach  speeds
+exceeding 40 knots on occasion but tend to be stable and relatively smooth.
+
+
+Tidal currents in the Fraser River can be hazardous for landing seaplanes, especial-
+ly  with  northwest  winds  that  oppose  the  current, producing  steep, choppy  waves.
+
+Abbotsford to Hope 
+
+LYTTON
+LYTTON
+LYTTON
+
+TOLL 
+TOLL 
+TOLL 
+BOOTH
+BOOTH
+BOOTH
+
+SW
+
+MERRITT
+
+HOPE
+HOPE
+HOPE
+
+COQUIHALLA 
+COQUIHALLA 
+COQUIHALLA 
+HIGHWAY
+HIGHWAY
+HIGHWAY
+
+ALLISON 
+PASS
+
+PRINCETON
+
+PITT LAKE
+
+ALOUETTE
+ LAKE
+
+STAVE 
+LAKE
+
+HARRISON
+LAKE
+
+LANGLEY
+LANGLEY
+LANGLEY
+
+ABBOTSFORD
+ABBOTSFORD
+ABBOTSFORD
+
+CHILLIWACK
+CHILLIWACK
+CHILLIWACK
+
+10,000 FT
+
+7000 FT
+
+5000 FT
+
+3000 FT
+
+2000 FT
+
+1500 FT
+
+1000 FT
+
+600 FT
+
+300 FT
+
+0 SEA LEVEL
+
+COMMON FLIGHT 
+ROUTES
+
+Map 4-5 - Abbotsford to Hope 
+
+BC-E  11/12/05  11:28 PM  Page 84
+
+84
+
+CHAPTER FOUR 
+
+The worst weather in the Fraser Valley occurs from September to April and is usu-
+ally associated with precipitation that brings on rapidly lowering ceilings and visibil-
+ity.
+During times of strong northwest winds over the Strait of Georgia, the winds will
+curl into a strong westerly along the valley.
+Very strong winds are common over Harrison Lake and Harrison River in summer.
+
+Over the lake, the worst winds are northerly sea breezes during summer afternoons.
+
+Turbulence
+is  common  in  the  Hope  area  when  strong  inflow  or  outflow  winds  are  occurring.
+
+At the mouth of Howe Sound, near Vancouver, channelling causes outflow winds
+to increase dramatically.
+The winds over the open waters of the southern
+Strait of Georgia are also often in conflict.
+When the outflow from Howe Sound is
+strong and there is a strong southeasterly wind blowing along the Strait, these winds
+
+BC-E  11/12/05  11:28 PM  Page 86
+
+86
+
+CHAPTER FOUR 
+
+are meeting each other almost head on.
+Add to this the fact that the upper winds just
+off  the  surface  are  commonly  south  or  southwesterly  winds  aloft  producing  a  haz-
+ardous condition with mechanical turbulence at lower levels and shear turbulence just
+above  the  turbulent  boundary  level  winds, starting  anywhere  from  800  to  2,000  ft
+MSL.
+In the summer, thunderstorms are not infrequent in Howe Sound and tend to move
+up the sound.
+Strong inflow winds are common into Howe Sound to Squamish, often
+exceeding 30 knots.
+The valley from Whistler to Pemberton is notorious as one of the last to dry out and
+clear  after  frontal  precipitation.
+Southeasterly winds are the most significant along the strait and they tend to be
+gusty.
+Channelling and coastal convergence of the surface wind can be severe along
+either side of Texada Island due to the height of the ridges.
+Coastal convergence can
+produce  winds  of  up  to  35  knots  in  the  summer  near  Qualicum  Beach.
+BC-E  11/12/05  11:29 PM  Page 88
+
+88
+
+CHAPTER FOUR 
+
+Powell River can be hazardous in southeast winds with lots of subsiding air near the
+runway.
+The lake can be especial-
+ly bad in southeast winds, which swirl around a point of land on the southern end of
+the lake.
+Once again the unofficial wind reports from the marine bulletins are very useful
+indicators of surface wind conditions.
+The prevailing southeasterly winds in the winter tend to force low cloud onto the east
+coast of Vancouver Island, often leaving the mainland half of the Strait less congested.
+
+
+Winds over
+the straits and at Port Hardy will be light in the morning and strengthen to north-
+westerly 15 to 25 knots in the afternoon.
+Alert Bay airport has an abrupt drop-off
+near the northwest end of the runway that induces a downflow in strong southeast-
+erly winds.
+
+
+Winter  storms  tend  to  induce  strong  southeasterly  winds  in  the  straits  reaching
+typical  values  of  25  to  45  knots  in  Johnstone  Strait  and  35  to  50  knots  in  Queen
+Charlotte Strait.
+When the upper flow is strong southwesterly (around 50 knots or greater) there is
+a tendency for strong channelled winds to come out of Telegraph Bay (near Malcolm
+Island).
+Also  in  such  conditions  strong  rotor  activity  develops  in  Blind  Channel
+(between Kelsey Bay and Chatham Point) resulting in swirling winds, sheets of water
+lifting from the surface and even waterspouts.
+
+
+BC-E  11/12/05  11:29 PM  Page 90
+
+90
+
+CHAPTER FOUR 
+
+There is a typical weather regime change at Kelsey Bay with cloud and rain becom-
+ing more common further north as wind patterns change.
+In autumn and winter months, the
+northern end of the island is often battered by extreme winds reaching 80 knots or
+more.
+Wind  speeds  over  the  water  are  available  from  the  Marine  Bulletins.
+Near
+Campbell River see Mudge Island (more indicative of winds at the water aerodrome
+at Campbell Spit).
+From  south  to  north  the  winds  in  Queen  Charlotte
+Sound are found at Pulteney Point, Scarlett Point and Herbert Island.
+Strong winds, low cloud, heavy precipitation and
+fog banks combine to make this a treacherous route year round.
+Near Gold River and Tahsis, inflow winds can make water very rough at the sea-
+plane dock.
+See the
+marine report at Nootka for an indication of winds in Nootka Sound west of Gold
+River.
+
+BC-E  11/12/05  11:29 PM  Page 93
+
+North Coast
+
+LAKP-British Columbia
+
+93
+
+MASSET
+
+SANDSPIT
+
+PRINCE RUPERT
+
+TERRACE
+
+10,000 FT
+
+7000 FT
+
+5000 FT
+
+3000 FT
+
+2000 FT
+
+1500 FT
+
+1000 FT
+
+600 FT
+
+300 FT
+
+0 SEA LEVEL
+
+BELLA BELLA
+
+Map 4-10 - North Coast
+
+The  predominate  circulation  over  the  North  Coast  is  from  the  west.
+Most of this can be attributed to the
+fact that the northern storm track tends to lie over this area for much of the year and
+the fact that there is no sheltering bulk of Vancouver Island to weaken the incoming
+storms.
+Winds will tend to increase along the coast just ahead of
+the front and can be expected to reach values of 30 to 40 knots over some exposed
+locations around the Queen Charlotte Islands.
+
+
+This  produces  strong  northwest  winds  following  the
+frontal passage.
+The strongest northwesterly winds are often reported along the west
+coast of the Queen Charlottes.
+
+
+Although  not  frequent, thunderstorms  do  occur  over  the  inland  sections  of  the
+North Coast in the summer.
+Air mass thunderstorms are the most common, tend to
+develop during the late afternoon or evening, and drift eastward along the sides of
+inlets or valleys.
+On rarer occasions, frontal thunderstorms will move into the coastal
+areas.
+
+
+Ahead
+of the warm front, extensive, deep-layered cloud will give steady heavy precipitation
+and strong southeast winds across the area.
+With the passage of the warm front, the
+precipitation  becomes  intermittent, the  lowest  cloud  layers  break  up  somewhat  but
+the higher cloud layers will persist.
+At the same time, strong southerly winds usually
+persist.
+Strong west to northwest
+winds usually prevail, especially around the Queen Charlottes and Dixon Entrance.
+
+With the most active fronts, warm or cold, the winds can briefly rise to 60 knots with
+gusts above 80 knots at locations around the Queen Charlotte Islands.
+
+
+Air mass thunderstorms occur most often during the winter in the very cold air that
+follows the passage of a cold front.
+Usually there has to be a trough
+to get thunderstorms.
+
+
+The strong winds funnel down the mainland
+inlets  often  reaching  speeds  up  to  60  knots  and  occasionally  rising  as  high  as  100
+knots.
+Side tributaries from the main inlets also have strong winds and, where a major
+side valley joins the main inlet, chaotic conditions are found.
+When the strong winds
+flow out from the mouths of the inlets, they continue for some distance but gradually
+weaken as the flow is no longer confined.
+Extreme caution is advised when crossing
+coastal inlets during an outflow situation as the winds can increase very abruptly in a
+narrow band near the mouth of the inlet.
+
+
+After the initial surge of cold air, accompanied by a band of cloud
+and  flurries, the  skies  will  clear  and  remain  so  throughout  the  period  of  outflow
+winds.
+The end of an arctic outbreak occurs when the cold air is forced back inland by the
+arrival  of  warmer  air  being  driven  ahead  of  a  storm  approaching  from  the  Pacific
+Ocean.
+The  precipitation  with  the  system  frequently  starts  as  snow  but  changes  to
+either rain, or rain and snow mixed, over the Queen Charlottes and along the coast
+as  temperatures  moderate.
+In  the  inlets; however, the  cold  outflow  winds  will 
+gradually ease as the southeast winds strengthen along the coast.
+Freezing rain can also occur in the inlets until the cold air is fully scoured out by the
+approaching warmer air.
+
+
+A strengthening afternoon inflow is common in the channels so that by late after-
+noon the winds are frequently strong and the water too rough to allow floatplanes to
+land at the head of inlets.
+
+
+Local pilots suggest you stay
+at least 5 miles clear of the Goose Bay area (Namu) and the big hill on the south side
+of the mouth to Rivers Inlet when strong southeast winds are blowing (for an indica-
+tor of wind strength check the report for Addenbroke).
+Lee waves are present over
+top of Rivers Inlet and flight near 500 feet will be extremely rough in windy conditions.
+
+
+These winds are the best indicator of inflow/outflow conditions on
+the central coast and are worth monitoring on a regular basis.
+Outflow of cold air will
+also occur ahead of approaching systems, and in the winter this creates the potential
+for freezing rain.
+
+
+Westerly winds tend to produce severe tur-
+bulence over portions of Rivers Inlet, due to the steep bluffs on the west side of the
+inlet.
+In winter, Pacific low pressure systems can produce very strong winds, often
+exceeding 50 knots.
+When winds exceed 25 knots, moderate or greater turbulence can
+be  expected  around  virtually  all  terrain.
+Channelling  and  funnelling  can  produce
+extreme winds in most inlets.
+The severity of these winds should not be underesti-
+mated.
+Every winter on the north coast there are occasionally winds extreme enough
+to induce swirls that can lift water frrom the surface.
+Note, however, that even when
+winds reach 35 knots or more in Chatham Sound (see Lucy Island), Seal Cove can
+be relatively calm.
+
+
+When the strong southeasterly or southerly winds are blowing, experienced pilots
+flying between Prince Rupert and the central coast will avoid the inside routes such
+as Grenville Channel, and take the longer route outside the islands to avoid the heavy
+turbulence  induced  by  the  narrows  and  terrain.
+The  strong  northeasterly  outflow
+winds, common in the winter months, also cause significant turbulence near similar
+terrain  features.
+The  Portland  Inlet, just  north  of  Prince  Rupert, the  mouth  of  the
+Skeena River and the Douglas Channel further south between Kitimat and the coast,
+are particularly affected by outflow winds, often causing turbulence prohibitive of all
+small aircraft flight.
+In the summer strong northwesterly winds can cause moderate
+to severe turbulence and rough sea conditions near Port Simpson just south of the
+mouth of the Portland Inlet.
+For indicators of the above conditions see the winds at
+Grey Island for the mouth of Portland Inlet and Port Simpson, and at Holland Rock
+for the mouth of the Skeena River.
+The Nanakwa Shoal winds in the buoy report are
+indicative of the winds in the Douglas Channel.
+
+
+Winter systems also bring a lot of precipitation to the north coast.
+The coastal
+inlets and valleys are prone to low cloud during and after precipitation.
+Inflow winds
+tend to push this cloud up the valleys toward the mountains.
+Outflow winds on the
+other  hand  bring  drier  air, but  at  times  can  be  strong  enough  to  cause  significant
+mechanical  turbulence  particularly  near  narrows  and  rough  terrain.
+This can produce significant downslope winds and turbulence over east-
+ern sections of the Bella Coola Valley.
+
+
+Again, low cloud at
+the southwest end of the route and mechanical turbulence in strong outflow winds,
+are the most common problems.
+
+
+The automatic weather station at Cathedral
+Point in the Burke Channel is the best indicator of inflow/outflow winds along the
+central coast.
+
+
+FT
+
+7000 FT
+
+5000 FT
+
+3000 FT
+
+2000 FT
+
+1500 FT
+
+1000 FT
+
+600 FT
+
+300 FT
+
+0 SEA LEVEL
+
+BELLA BELLA
+BELLA BELLA
+BELLA BELLA
+
+BURKE CHANNEL
+BURKE CHANNEL
+BURKE CHANNEL
+
+BELLA COOLA
+BELLA COOLA
+BELLA COOLA
+
+Map 4-14 - Bella Bella to Kitimat  (Douglas Channel)
+
+When active storms are moving northward along the Central Coast, there may be
+rotor turbulence on the east side of the valley, due to the higher southeasterly storm
+winds interacting with the generally north to south terrain.
+(For  an  indicator  of  inflow/outflow
+winds  see  the  report  from  the  buoy  at  Nanakwa  Shoal.
+BC-E  11/12/05  11:29 PM  Page 103
+
+LAKP-British Columbia
+
+103
+
+This  channel  is  extremely  susceptible  to  freezing  rain  as  the  warm  air  ahead  of
+
+approaching frontal systems overruns the cold air in the valley bottoms.
+
+
+It is extreme-
+ly susceptible to heavy snowfall ahead of an approaching frontal system, followed by
+freezing rain as the warm air overruns the cold air in the valley bottoms.
+
+
+Significant turbulence is observed with northwesterly winds to the north of Seal
+Cove.
+For  indicators  of  these  conditions  see  the  winds  at  Grey  Island  at  the  mouth  of
+Portland Inlet.
+
+
+Winter brings a seemingly endless procession of fronts
+off the Pacific accompanied by severe winds, abundant precipitation, low cloud and
+
+BC-E  11/12/05  11:29 PM  Page 105
+
+LAKP-British Columbia
+
+105
+
+limited visibilities.
+Hurricane force winds are a frequent feature of winter storms.
+Moderate turbulence is often reported to the lee of Tow Hill, east of Masset, dur-
+ing northwesterly or southeasterly winds exceeding 25 knots.
+Thunderstorms (sum-
+mer and winter) tend to move through Skidegate Channel on a regular basis, reduc-
+ing visibility from unlimited to near zero (rain or snow) in a matter of a few minutes.
+
+
+Langara Island and Rose Spit give
+winds  for  the  northwest  and  northeast  corners  of  Graham  Island  respectively.
+Kindakun Rocks gives winds on the exposed west
+coast as does Cape St. James on the south tip of Moresby Island.
+
+
+The region near Salvus can receive extremely heavy precipitation, due
+to both convergence at the narrows and lift from the upslope terrain.
+
+
+The  Douglas  Channel  south  of  Kitimat  as  well  as  the  valleys  south  and  west  of
+Terrace are extremely susceptible to freezing rain as the warm air ahead of approach-
+ing frontal systems overruns the cold air in the valley bottoms.
+The strength of the
+inflow/outflow  winds  can  be  monitored  by  checking  the  report  from  the  buoy  at
+Nanakwa Shoal.
+
+
+When the flow aloft is southwesterly, it
+is common to see Pacific frontal systems produce little or no precipitation over this
+area.
+Only when the upper flow turns to the south does significant precipitation pen-
+etrate  these  valleys.
+The  annual  precipitation  is  almost  equally  split  among  the
+months – weather systems providing the precipitation in the winter and convection
+in the summer.
+
+
+BC-E  11/12/05  11:29 PM  Page 108
+
+108
+
+CHAPTER FOUR 
+
+(a) Summer
+
+Summers in the Southwest Interior tend to be sunny and hot as the Pacific Ridge
+pushes  the  main  storm  track  north  of  the  area.
+The cloud cover will develop noticeable breaks and precipitation, if any, will be light.
+
+For the most part the summer is dry and hot with afternoon temperatures reaching
+into the mid-to-upper 30 degree Celsius range.
+At this time of
+the year, the upper winds are usually light so that non-convective turbulence is at a
+minimum.
+
+
+While the precipitation is usually light, areas of
+upslope flow will see larger amounts.
+
+
+The  most  active  thunderstorms  tend  to  occur  when  some  sort  of  front  of  upper
+trough moves across the interior, producing a band of afternoon or evening thunder-
+showers.
+These thunderstorms often persist well into the night.
+Over most regions,
+the predominant types are air mass and nocturnal thunderstorms and, when they do
+occur, they generally move along the valleys.
+The mountainous terrain hinders the full
+development of thunderstorms so that severe weather is uncommon.
+When it does, it
+usually consists of severe lightning, large hail and downburst winds.
+While thunder-
+storms  can  occur  at  anytime  during  the  summer, the  main  period  is  from  June  to
+August.
+
+
+As a front moves inland, it will weaken due to subsidence; how-
+ever, usually sufficient moisture will persist to give some precipitation.
+It is worth noting here that the snow level is usually found
+500 to 1,000 feet below the freezing level.
+Fortunately, freezing  precipitation  is
+rare; however, icing in this cloud can be significant.
+
+
+This cloud
+will  produce  some  precipitation, but  only  light  snow, in  areas  where  the  moisture 
+supply has been increased.
+Valley cloud will only move if strong winds develop in the
+valley, or it will dissipate if the major moisture sources freeze over.
+With  temperatures  that  are 
+relatively warm, they contain a significant percentage of supercooled water droplets
+resulting in SLD icing.
+In addition, these larger droplets have been known to settle
+out of the cloud, producing freezing drizzle just below the cloud base.
+
+
+Depending on
+the strength of the arctic front, winds can shift abruptly into the northwest with the
+passage of the front and be gusty for several hours.
+Arctic air over the interior offers little problems other than the temperature.
+These clouds, if there is a significant
+difference between the air temperature and the water temperature, will be turbulent,
+contain  icing  and  produce  local  heavy  snow  showers.
+At the same time, the combination of
+the upper flow and the channelled winds in the valleys will produce wind shears near
+the top of the valley.
+
+
+Despite frequent reports of strong winds at Lytton, turbulence is seldom encoun-
+tered south of Boston Bar.
+However, during times of strong southerly winds (30 knots
+or  greater)  severe  turbulence  should  be  expected  near  Lady  Franklin  Rock  (across
+from  the Yale Tunnel).
+North  of  Boston  Bar, pilots  have, despite  wind  gusts  to  60
+knots, noticed little turbulence.
+The area around the Lytton airport can be turbulent
+at times due to the splitting of the strong winds into the Fraser and Thompson River
+valleys.
+
+
+Like the southern part of the Fraser Canyon, strong winds will
+occur in the summer giving localized areas of turbulence.
+
+
+The route west of the Allison Pass is part of a very wet ups-
+lope regime, and is an area known to be slow to dry and become clear of low cloud
+after precipitation.
+
+
+Visibility  falls
+rapidly along this route once steady precipitation begins.
+Precipitation results in a very rapid low-
+ering of ceilings and visibility.
+Also when
+strong southerly winds aloft are occurring, expect moderate occasional severe turbu-
+lence at 6,000 to 7,000 feet near Yahk Mountain and Zopkios Ridge.
+
+
+This more northerly route is a popular route to fly as it often avoids the poor con-
+ditions and strong winds occurring in the Fraser Canyon.
+Occasionally  in  summer, strong  thunderstorms  can  be  encoun-
+tered, and in fall fog can be a problem near the lakes.
+
+
+Precipitation generally brings low cloud all along the route.
+Kamloops
+wind strength and direction give an indication as to which end of the lake the cloud
+will be heavier.
+When the
+surface winds are strong the area around Keremeos is prone to mechanical turbulence
+at lower levels.
+
+
+Winds and temperatures aloft have a strong effect on flying conditions in the valley.
+
+Westerly to southwesterly winds aloft is common, and when strong, cause lee wave
+
+GRAND FORKS
+
+TRAIL
+
+BC-E  11/12/05  11:29 PM  Page 117
+
+LAKP-British Columbia
+
+117
+
+turbulence and downdrafts on the west side of the valley.
+Another effect common to many BC valleys is that of temperature inversion.
+The area is generally dry but after precipitation low cloud will often remain
+in the upper valley passes longer than at Kamloops (the only local METAR).
+With
+strong winds at 3 and 6 thousand feet expect mechanical turbulence in the passes.
+During the summer months, thunderstorms tend to intensify near Shuswap Lake,
+
+and many feel that the lightning capital of BC is the area just east of the lake.
+
+
+Any  system  that
+crosses the Coast Mountains on an eastward track will undergo further upslope lift in
+this area, resulting in additional precipitation.
+As it does, the cloud band will thicken and the precipitation becomes
+heavier and more widespread along the upslope areas.
+The majority of precipitation over this area during the summer is convective.
+For
+the most part, the mountainous terrain hinders the development of severe thunder-
+storms.
+Instead, airmass  and  nocturnal  thunderstorms  develop  and  move  along  the
+valleys.
+Severe convective weather is most often the result of storms moving north-
+eastward  out  of  Washington  and  Idaho.
+Even  these  storms  usually  produce  severe
+lightning, large  hail  and  downburst  winds.
+While thunderstorms can occur at anytime during the
+spring and summer, the main period is from June to August.
+
+
+Frontal 
+systems are stronger and wetter resulting in widespread cloudiness and precipitation.
+
+For the most part, the precipitation will fall as snow resulting in extensive low ceil-
+ings and visibility.
+Valley  cloud  will  only  move  if  strong  winds  develop 
+in the valley or it will dissipate if the major moisture sources freeze over.
+Depending  on  the
+strength of the arctic front, winds can shift abruptly into the east with the passage of
+the front and be gusty for several hours.
+BC-E  11/12/05  11:30 PM  Page 120
+
+120
+
+CHAPTER FOUR 
+
+Arctic air offers little problems other than the temperature.
+These clouds, if there is a significant difference between the air temperature
+and the water temperature, will be turbulent, contain significant icing and produce
+local  snow  showers.
+From there
+it  follows  Highway  3  past  Christina  Lake, rising  another  2,000  feet  through  yet
+another  upslope  region  with  the  usual  increase  in  precipitation  and  cloud, before
+dropping  into  the  Columbia  River  valley  west  of  the  Arrow  Dam  and  Castlegar.
+
+This route is seldom a problem during the peak of summer except for thunderstorm
+activity.
+The area is hot and dry with little weather other than thunderstorms.
+These
+thunderstorms usually originate in Washington State and move northwards along the
+valleys during the afternoon and evening.
+but, on occa-
+sion, a few nocturnal thunderstorms will last into the early morning.
+
+
+Upslope  lift  east  of  the
+Okanagan Valley and again just west of Grand Forks causes increased precipitation
+and  cloud  and, when  applicable, aggravates  convective  build-ups.
+The Arrow Dam where the Columbia River valley narrows is a known area of turbu-
+lence  in  strong  winds.
+In addition to low cloud, strong winds with wind shear are common.
+
+
+With all moun-
+tain routes clouds and winds can be a problem.
+Low-level winds can be strong in the
+Kootenay Bay area due to converging winds where the valleys come together.
+Winds
+here  and  at  Nelson  tend  to  be  worse  in  a  southwest  flow.
+Nelson  airport  itself  is
+known  to  have  crosswinds  on  a  regular  basis.
+The Moyie River Valley
+between Yahk and Moyie Lake receives more precipitation than other areas, even dur-
+ing  the  summer.
+SEA LEVEL
+
+CRANBROOK
+CRANBROOK
+CRANBROOK
+
+SPARWOOD
+SPARWOOD
+SPARWOOD
+
+BULL
+RIVER
+
+MOYIE
+LAKE
+
+FERNIE
+FERNIE
+FERNIE
+
+CRESTON
+
+RYANRYANRYAN
+
+YAHKYAHKYAHK
+
+COMMON FLIGHT 
+ROUTES
+
+ELKOELKOELKO
+
+Map 4-28 - Cranbrook and eastwards through the Crowsnest Pass
+
+At the Cranbrook airport itself, although winds are not very strong, the prevailing
+westerly wind is across the runway.
+The route up the Elk Valley to Sparwood and on to Blairmore (in Alberta) is well
+known for its strong winds (up to 80 knots) and turbulence.
+Strong outflow winds are common out of the Bull
+River valley.
+
+
+At Three Valley Gap, the narrow confluence
+of  valleys  channels  both  wind  and  low  cloud  and  is  the  usual  problem  point  when
+conditions are marginal.
+When winds are strong pilots should assume that there will
+be  significant  mechanical  turbulence  in  this  area.
+The  upslope  lift  encountered  by
+weather system approaching from the southwest or west increases the instability and
+precipitation.
+Surface  winds  at  Revelstoke
+can be very strong following an arctic front but, in general, are not usually a hazard to
+aviation.
+Revelstoke to Golden to Banff
+
+BLAEBERRY PASS
+
+COMMON FLIGHT 
+ROUTES
+
+DONALD
+DONALD
+DONALD
+
+SHUSWAP LAKE
+
+REVELSTOKE
+REVELSTOKE
+REVELSTOKE
+
+ROGERS PASS
+
+KATABATIC WINDS
+KICKING HORSE 
+PASS
+
+3 VALLEY GAP
+
+GOLDEN
+GOLDEN
+GOLDEN
+
+10,000
+It is rarely open during times of precipitation and should not be attempted when
+conditions are deteriorating rapidly from the west (i.e. a front moving in).
+
+
+While
+winds are generally not a major concern between Golden and Kicking Horse Pass,
+local funnelled winds can provide some turbulence.
+When the winds are strong,
+the worst turbulence, often moderate or greater, is usually found to the east of Banff,
+and can make an otherwise clear day unflyable.
+A pressure difference on either side of the Rockies usually indi-
+cates winds and associated turbulence in the pass and vicinity.
+
+
+Infrequent strong winds do not usually produce significant turbulence due to the
+wide, linear valley, except where valleys merge with the Trench from the side.
+With
+strong  winds  aloft  (west  to  southwest), occasionally  lee  wave  turbulence  will  affect
+flights into and out of Cranbrook.
+
+
+The
+airport at Cranbrook is on a hill above the town and is often subject to crosswinds
+from the west.
+Beside the usual cloud problems
+associated  with  Rocky  Mountain  passes, this  route  has  the  potential  for  very  haz-
+ardous wind and turbulence conditions.
+West of this location, winds and turbulence diminish rapidly
+except for extreme katabatic winds on sunny summer evenings.
+With the effects of
+channelling and rugged terrain on valley winds and the katabatic winds off the ice
+fields  and  glaciers, wind  patterns  can  be  very  chaotic.
+The  only  way  to  avoid  these
+conditions is to fly before 10am or after 5pm when surface winds are light or at much
+higher altitudes when ceilings allow it.
+Winds along
+the  Columbia  River  are  almost  always  much  stronger  than  those  further  south  at
+Golden.
+(a) Summer
+
+Like the rest of BC, summer is the benign season where the weather is strongly
+influenced by the position of the main storm track.
+During the early part of summer
+and in the fall, the storm track tends to lie over the Central Interior.
+This exposes this
+area to the travelling frontal systems sweeping across the area giving frequent cloudi-
+ness and precipitation.
+
+
+This  northward  shift  causes  the  main
+storm  track  to  shift  into  the  northern  Gulf  of  Alaska  and  across  northern  British
+Columbia, or even into the Yukon.
+South of this track, minor frontal systems, upper
+troughs and thunderstorms produce most of the weather.
+In  the  Central  Interior  of  British  Columbia  and  the  northern  section  of  British
+Columbia, the plateau type terrain allows the thunderstorms to reach full intensity.
+
+While  air  mass  thunderstorms  still  remain  the  predominate  type, frontal  thunder-
+storms  and  nocturnal  thunderstorms  are  common.
+The  typical  scenario  would  see 
+the beginning of thunderstorm activity early in the afternoon and for it to dissipate
+in the evening.
+Most often the thunderstorms move towards the northeast and, given
+the right conditions, their intensity can reach the severe level.
+The 
+normal thunderstorm season for both areas is June to August.
+
+
+As such, steady precipitation is to be expected whose type will vary with the
+local temperatures.
+Depending on the strength of the arctic front, winds can shift abruptly into
+the northwest to northeast with the passage of the front and be gusty for several hours 
+
+Arctic air over the interior offers little problem, other than the temperature.
+These clouds, if there is a significant dif-
+ference  between  the  air  temperature  and  the  water  temperature, will  be  turbulent,
+contain icing and produce local snow showers.
+BC-E  11/12/05  11:30 PM  Page 138
+
+138
+
+CHAPTER FOUR 
+
+VANDERHOOF
+
+PRINCE
+GEORGE
+
+Williams Lake - Alexis Creek – Puntzi Mountain – Anahim Lake 
+
+ANAHIM LAKE
+ANAHIM LAKE
+ANAHIM LAKE
+
+CHARLOTTE LAKE
+CHARLOTTE LAKE
+CHARLOTTE LAKE
+
+PUNTZI
+PUNTZI
+PUNTZI
+MOUNTAIN
+MOUNTAIN
+MOUNTAIN
+
+KLEENA KLEENE
+KLEENA KLEENE
+KLEENA KLEENE
+
+QUESNEL
+QUESNEL
+QUESNEL
+
+VERY DRY
+EXECPT IN EAST
+OR NORTHEAST WIND
+
+TATLA LAKE
+TATLA LAKE
+TATLA LAKE
+
+ALEXIS CREEK
+ALEXIS CREEK
+ALEXIS CREEK
+
+CHILKO LAKE
+CHILKO LAKE
+CHILKO LAKE
+
+RISKE CREEK
+RISKE CREEK
+RISKE CREEK
+
+WILLIAMS LAKE
+WILLIAMS LAKE
+WILLIAMS LAKE
+
+
+Generally, weather  systems  give  more  precipitation  east  of  the  Fraser  River.
+
+Thunderstorms are more frequent, especially in the vicinity and east of the Fraser River.
+
+In the winter severe lee wave turbu-
+lence  to  the  east  of  the  Coast  Mountains  is  common  with  very  strong  westerly  or
+
+BC-E  11/12/05  11:30 PM  Page 139
+
+LAKP-British Columbia
+
+139
+
+southwesterly  winds  aloft.
+Williams Lake to Quesnel
+
+ANAHIM LAKE
+ANAHIM LAKE
+ANAHIM LAKE
+
+CHARLOTTE LAKE
+CHARLOTTE LAKE
+CHARLOTTE LAKE
+
+PUNTZI
+PUNTZI
+PUNTZI
+MOUNTAIN
+MOUNTAIN
+MOUNTAIN
+
+KLEENA KLEENE
+KLEENA KLEENE
+KLEENA KLEENE
+
+QUESNEL
+QUESNEL
+QUESNEL
+
+VERY DRY
+EXECPT IN EAST
+OR NORTHEAST WIND
+
+TATLA LAKE
+TATLA LAKE
+TATLA LAKE
+
+ALEXIS CREEK
+ALEXIS CREEK
+ALEXIS CREEK
+
+CHILKO LAKE
+CHILKO LAKE
+CHILKO LAKE
+
+RISKE CREEK
+RISKE CREEK
+RISKE CREEK
+
+WILLIAMS LAKE
+WILLIAMS LAKE
+WILLIAMS LAKE
+
+COMMON FLIGHT 
+ROUTES
+
+10,000 FT
+
+7000 FT
+
+5000 FT
+
+3000 FT
+
+2000 FT
+
+1500 FT
+
+1000 FT
+
+600 FT
+
+300 FT
+
+0 SEA LEVEL
+
+Map 4-40 - Williams Lake to Quesnel
+
+The Fraser River valley from Williams Lake to Quesnel is relatively broad and the
+grade is gradual.
+Whenever the arc-
+tic front oscillates back and forth through the area, the front is accompanied by freez-
+ing  drizzle, low  cloud, poor  visibility  in  snow, fog  and  wind  shear.
+The  Cariboo-
+Central Interior is not prone to winds.
+However, the Fraser River Valley can be windy,
+particularly southerly winds, which can exceed 40 knots at low levels, in autumn and
+winter.
+Although they are strong and generate high wind shear values, these winds do
+not generally produce significant turbulence in the Valley.
+
+
+This  area  is  well  known  for  its  summer  thunder-
+storm activity with the accompanying gusty winds and turbulence.
+
+
+The emissions from the mill stacks often
+QUESNEL LAKE
+give a visual representation of the low-level vertical wind pattern.
+
+
+Strongest winds at the airport tend to be from the south.
+Light northerly winds at the
+surface often occur in conjunction with strong southerly winds aloft, say at 800 feet.
+
+Both routes from Kamloops to Vavenby can see some low cloud especially during
+and  after  precipitation.
+North of Blue
+River, strong  winds  aloft  (6  to  12  thousand  feet)  out  of  the  west  or  southwest  can
+cause considerable turbulence in the valley.
+
+
+Severe turbulence often results when strong winds aloft cross the mountains
+from  the  southwest.
+In winter low cloud and precipitation move through with frontal disturbances, dry-
+ing slowly behind them.
+Winds and
+turbulence  are  generally  light  along  this  route.
+Low  cloud  and  fog  are  commonly
+encountered along the Parsnip River Valley, especially in the fall and spring and often
+in association with frontal precipitation.
+
+
+In summer, the Pine Pass
+area is also prone to thunderstorm activity.
+As with other locations just east of the
+Rockies, lee wave turbulence is to be expected in the Chetwynd area when there is a
+strong southwesterly flow aloft
+
+Thunderstorms often form along the foothills in summer months along a line just
+east of Chetwynd.
+These convective lines tend to remain relatively stationary while
+developing in the early afternoon, then tend to begin to move in the direction of the
+upper level (approximately FL180) winds late in the day.
+
+
+Turbulence  in  this  region  is  worst  in  north  to  south  oriented  valleys, when  the
+winds are blowing across the mountains from west to east.
+These winds tend to be
+strongest in spring and autumn, with associated mechanical turbulence usually below
+1,000 feet AGL.
+
+BC-E  11/12/05  11:31 PM  
+Large thunderstorms with strong
+winds and hail occur, with the occasional report of a funnel cloud or tornado.
+
+
+Strong westerly winds will
+
+BC-E  11/12/05  11:31 PM  
+In addition, gusty westerly
+crosswinds often make landings tricky at Burns Lake.
+
+Weather  can  change  very  quickly  as  cloud  invades  through  the  valley  at Telkwa.
+Precipitation and westerly winds are more frequent at Telkwa and over the town than
+at the Smithers Airport.
+When westbound through the Telkwa Pass with low cloud or freezing levels, sud-
+den snow squalls or rapidly lowering cloud can reduce ceiling and visibility to near
+zero almost instantly.
+BC-E  11/12/05  11:31 PM  Page 150
+
+150
+
+CHAPTER FOUR 
+
+In summer, strong inflow winds can combine with Katabatic winds from the gla-
+ciers to cause significant mechanical turbulence.
+Thus there is a significant change in the precipitation regime along the Skeena
+River.
+Intrusions  of  low  cloud  and  fog  with
+inflow winds are the main weather hazard and, although more frequent in winter, can
+occur throughout the year.
+When winds aloft at 6,000 feet exceed 30 knots, moderate turbulence is common
+throughout the region.
+Rounding Copper Mountain at the confluence of the Copper
+(Zymoetz) and Skeena Rivers, there is often a wall of wind giving sudden and unex-
+pected turbulence.
+This usually occurs when strong inflow winds are experienced at
+the Terrace Airport.
+
+
+If even a scattered layer of low cloud below
+700 feet is reported at the Terrace Airport when they are reporting a light southerly
+wind, the Kalum River Valley is likely socked in up to Kitsumkalum Lake.
+When
+there  are  strong  inflow  or  outflow  winds, turbulence  should  be  expected, especially
+between American Creek and Meziadin,
+
+Weather observation at Stewart should be examined for an idea of conditions near
+
+Meziadin.
+
+
+The  valley  north  of  Bell  1  to, and
+including the Nigunsaw Pass, is in a very heavy snowfall belt.
+In winter it has been
+know to receive some of the heaviest snowfalls in northwest BC.
+
+
+Any precipitation usually
+closes these northern valley routes.
+
+
+If there is low cloud at Ketchikan along with a
+westerly wind component, both routes are likely closed.
+
+
+With  systems
+tracking  in  from  the  west  and  southwest, heavier  precipitation  and  more  frequent
+cloud are generally experienced in the upslope area on the western side of the Cassiar
+Mountains.
+ing from the Gulf of Alaska will likely cause precipitation in the mountains and close
+the route.
+
+
+Strong west or south-
+west winds can generate significant turbulence to the lee of the Coast Mountains and
+higher interior terrain.
+
+
+These large lakes
+are subject to strong winds and rough surface conditions.
+
+
+At these times, widespread low
+ceilings and prolonged precipitation will occur and at times will last for twenty-four
+hours or more.
+
+
+This area is also marked by frequent thunderstorms which, due to the plateau type
+of terrain, often reach their full intensity.
+While airmass thunderstorms still remain
+the predominant type, frontal thunderstorms and nocturnal thunderstorms are com-
+mon.
+The typical scenario would see the beginning of thunderstorm activity early in
+the afternoon and for it to persist well into the night.
+Most often the thunderstorms
+move toward the northeast and, given the right conditions, their intensity can reach
+the severe level.
+The normal thunderstorm season for both areas is June to August.
+
+
+(Most common in spring and summer months, this feature
+occurs on clear nights following strong, gusty winds in the previous afternoon.)
+As
+the  sun  sets, a  low-level  temperature  inversion  forms.
+The  strong  winds  remain 
+several hundred feet off the ground while surface winds become calm.
+In some cases,
+the winds just above the ground can be stronger than the afternoon gusts.
+They will; however, still give steady or
+intermittent precipitation whose type will vary depending upon local temperatures.
+
+Accumulation of precipitation is usually light in comparison to the coast.
+Patchy freezing rain or
+drizzle occurs on occasion during the winter months, usually developing east of the
+mountains, especially near the arctic front when it lies along the Continental Divide.
+
+
+Depending  on  the  strength  of  the  arctic
+front, winds can shift abruptly to the northwest following the frontal passage and be
+gusty for several hours.
+This, coupled with local snowfalls, can produce blizzard con-
+ditions.
+When an arctic high-pressure system lies to the east of the Rockies, an
+intense shear zone can develop as strong southwesterlies aloft blow over surface based
+easterly winds.
+Across the shear zone there is usually a very sharp temperature inver-
+sion.
+In  some  cases, surface  temperatures  can  be  twenty  degrees  colder  than  those
+found several hundred feet above ground.
+In such cases, even in clear air, frost can
+form  on  the  plane, particularly  on  the  cockpit  windows, while  ascending  into  the
+warmer air aloft.
+Some of the sharpest low level temperature inversions occur
+over Fort Nelson in winter, sometimes as much as a 30 degree change in less than one
+thousand feet.
+Despite  this, the  ride  will  often  be  very
+rough, up to approximately 8,000 feet, if winds across the mountains exceed 25 knots.
+
+This section is much more prone to low cloud
+when there is a low-level flow from the northeast quadrant, as these winds cause oro-
+graphic lift along the upslope terrain.
+Many pilots
+choose this route when the surface winds are from the north to east quadrant, to avoid
+the conditions of upslope flow further west.
+
+
+It also tends to have lighter
+winds than the surrounding region.
+However, expect moderate turbulence in the area
+when the airport reports strong westerly winds.
+
+
+It then winds its way through the hills over two lower
+passes at about 3,600 feet, before joining the Liard River Valley.
+
+
+Abbotsford
+Wind Frequency by Direction
+Summer
+N
+
+Abbotsford
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+25%
+
+20%
+
+NE
+
+NW
+
+15%
+
+10%
+
+5%
+
+NE
+
+35%
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+5%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+S
+
+SE
+
+
+The winter winds show a strong bias to blowing either from the northeast to east,
+or from the south to southwest.
+Northeast winds are very common and can be attrib-
+uted to a cool katabatic flow that comes out from the eastern end of the Fraser Valley
+and curls around Sumas Mountain.
+Typically, this wind will only be in the 5 to 10
+knots range except in the case of very strong outflow conditions.
+If it is snowing or
+there is dry snow on the ground, the winds will produce blizzard-like conditions over
+the Sumas Prairie with the main core of strong winds passing just to the southeast of
+the airport.
+During these events, the winds will typically be northeasterly 10 to 20
+knots at the airport.
+When low pressure systems or fronts approach the South Coast,
+there is a tendency for these winds to take on a more easterly direction and increase
+in strength.
+The south-southwest winds most often occur behind frontal systems as
+they move eastward into the interior.
+The summer winds show the same bias for northeast and southwest direction as the
+winter winds.
+This sea breeze tends
+to  die  down  in  the  mid-evening  and  by  midnight  the  northeasterly  katabatic  wind
+will have re-asserted itself.
+Even the passage of a summer front will show little change
+in the bias to certain wind directions.
+Castlegar
+Wind Frequency by Direction
+Summer
+N
+
+Castlegar
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+NE
+
+NW
+
+20%
+
+15%
+
+NE
+
+10%
+
+5%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+SE
+
+SW
+
+S
+
+
+%Calm 29.0
+
+The  winds  at  Castlegar  show  strong  channelling  by  the  terrain, both  during  the
+summer and winter.
+From the graphs, it is evident that the predominant winds are
+either from the north or south, about 20 percent of the time for each direction.
+The
+wind can alter slightly in northwest or southeast directions, with the southeast wind
+more  common  in  the  winter  as  it  moves  up  the  Columbia  River  Valley.
+It is worth noting that calm winds occur on an average of 28 per-
+cent of the time, summer and winter.
+
+
+Cranbrook
+Wind Frequency by Direction
+Summer
+N
+
+Cranbrook
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+20%
+
+15%
+
+10%
+
+5%
+
+NE
+
+NW
+
+15%
+
+NE
+
+10%
+
+5%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+SE
+
+SW
+
+S
+
+
+%Calm 46.3
+
+BC-E  11/12/05  11:32 PM  Page 173
+
+LAKP-British Columbia
+
+173
+
+Cranbrook is not a windy location.
+During the winter months it is calm almost 46
+percent  of  the  time  and  the  winds  are  less  than  10  knots  almost  90  percent  of  the
+time.
+When the wind does blow it has a strong preference for directions ranging from
+southeast to west.
+Winds from the south to west occur most often a few hours ahead
+and behind frontal systems as they move across the interior.
+The southeast wind, out
+of the Rocky Mountain Trench, is often a result of cold air invading from Alberta.
+
+Cranbrook is slightly windier in the summer, mainly due to local convection, but
+even so it is calm 27 percent of the time.
+Like winter, it has a preference for winds
+from southeast to west.
+These winds tend to be largely a product of local pressure dif-
+ferences, as well as the movement of frontal systems through the area.
+
+
+During the winter, arctic air pools in the valley and can hold temperatures at
+subzero values long after the higher terrain warms up.
+The sharp inversions these cold
+pools form are a favourite haunt for widespread low stratus, fog and freezing drizzle.
+
+
+Even when the weather is nice, thunderstorms are a frequent visitor.
+
+
+On the plus side, Fort Nelson is not a windy airport.
+While the winds can blow
+from  almost  any  direction, about  70  percent  of  the  time  they  remain  at  below 
+10 knots.
+
+
+BC-E  11/12/05  11:32 PM  Page 175
+
+LAKP-British Columbia
+
+175
+
+Fort Nelson
+Wind Frequency by Direction
+Summer
+N
+
+Fort Nelson
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+20%
+
+15%
+
+10%
+
+5%
+
+NE
+
+NW
+
+20%
+
+15%
+
+NE
+
+10%
+
+5%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+SE
+
+SW
+
+S
+
+%Calm 20
+
+S
+
+SE
+
+%Calm 41
+
+
+The winds of summer show three distinctive axes.
+The northerly winds occur quite
+frequently  when  a  cold  front  moves  southward  through  Alberta.
+The most common wind, the southwesterly, is a ‘chinook-type’ flow.
+Downslope off
+the  Rockies, these  winds  tend  to  be  strong, gusty  and  warm.
+The wind that offers the greatest problem is the east
+or southeast wind.
+This wind is upslope and often brings with it widespread low ceil-
+ings and visibility in precipitation and mist.
+
+
+Fort St. John
+Wind Frequency by Direction
+Summer
+N
+
+Fort St. John
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+NE
+
+NW
+
+30%
+
+25%
+
+NE
+
+20%
+
+15%
+
+10%
+
+5%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+S
+
+SE
+
+
+%Calm 9.0
+
+S
+
+BC-E  11/12/05  11:32 PM  Page 177
+
+LAKP-British Columbia
+
+177
+
+The winter winds show a stronger preference for the cold northerlies, usually associ-
+ated with the arctic front.
+Another common wind is the warm southwesterlies.
+The
+result is that the entire area is subject to wide swings in temperature.
+Meanwhile, the east
+or southeast winds continue to be a problem in that there is a river to the southeast
+of the airport that remains open most winters.
+Fog banks form over this water and the
+wind carries it into the airport.
+
+
+Kamloops
+Wind Frequency by Direction
+Summer
+N
+
+Kamloops
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+NE
+
+NW
+
+35%
+
+30%
+
+25%
+
+NE
+
+20%
+
+15%
+
+10%
+5%
+
+W
+W
+
+E
+E
+
+W
+
+E
+
+SW
+
+SE
+
+SW
+
+
+The winds at Kamloops Airport show the effects of the east to west orientation of
+the Thompson River Valley.
+During the winter months, the wind is easterly almost
+35 percent of the time or calm 26 percent of the time.
+These easterly winds are a prod-
+uct of katabatic winds that develop along the local slopes most nights, converge in the
+valley bottom and flow towards Kamloops Lake.
+Normally these winds are only 5 to
+10 knots, but can increase ahead of approaching frontal systems or with very strong
+drainage of arctic air towards the coast.
+Westerly winds occur less often and tend to
+be strong and gusty in the wake of an arctic front.
+
+
+The terrain continues to influence the direction in the summer but convection gives
+a larger variation in wind direction.
+As in winter, the valley has a preference for an
+easterly drainage wind overnight and during the morning.
+In the afternoon, convection
+begins to mix the upper winds down to the surface causing the direction of the wind
+to  shift  to  westerly.
+Also, frontal  systems  which  move  across  the  interior  at 
+regular intervals, bring wind shifts from east to west with their passage.
+Some of the
+strongest westerly winds will occur in this case.
+It is worth noting that, on occasion,
+strong subsidence winds aloft are brought down to the surface as south-to-southwest
+(190-230 degrees true) winds.
+These winds are not only quite strong but definitely
+abrupt in their onset.
+
+
+With such marked terrain influence, it should come as no surprise that most of the
+time the winds are either northerly or southerly.
+
+ 
+ 
+BC-E  11/12/05  11:32 PM  Page 181
+
+LAKP-British Columbia
+
+181
+
+In the summer months, the winds are predominately thermally driven and result in
+a frequency distribution that is split between north and south.
+The  strong
+convection produced by this heating eventually carries the predominately southerly
+winds  aloft  to  the  surface, resulting  in  strong  southerly  winds  that  persist  into  the
+evening.
+Air begins to drain towards this low resulting in norther-
+ly winds that will persist into the morning.
+On the other hand, if the upper winds are
+not southerly or very light, a northerly wind will persist for the entire day.
+
+
+Penticton
+Wind Frequency by Direction
+Summer
+N
+
+40%
+
+Penticton
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+30%
+
+NE
+
+NW
+
+20%
+
+10%
+
+40%
+
+30%
+
+NE
+
+20%
+
+10%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+SE
+
+SW
+
+S
+
+%Calm 20
+
+S
+
+SE
+
+
+%Calm 17
+
+The  winter  wind  pattern  is  largely  driven  by  pressure  gradient.
+Strong southerly winds develop through the
+southern  valleys  ahead  of  these  systems, especially  the  trailing  cold  fronts, then
+change to a northerly flow in its wake.
+It should be noted that this wind change will
+not occur if the pressures to the north of the airport remain lower than those to the
+south.
+Northerly  winds  also  occur  when  cold  arctic  air  spreads  into  the  Southern
+Interior and drains towards the coast and Washington.
+
+
+BC-E  11/12/05  11:32 PM  Page 183
+
+LAKP-British Columbia
+
+183
+
+Like most other BC airports, the season of the year has a strong influence on the
+wind.
+In the summer, the most frequent winds tend to be easterlies that occur just
+ahead of frontal systems and northwesterlies that occur with its passage.
+This induces a sea breeze
+that begins as a northwesterly wind over Northern Queen Charolette Strait in the late
+afternoon, spreads southward and then slackens to light winds near midnight.
+
+
+Port Hardy
+Wind Frequency by Direction
+Summer
+N
+
+40%
+
+Port Hardy
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+30%
+
+NE
+
+NW
+
+20%
+
+10%
+
+40%
+
+30%
+
+NE
+
+20%
+
+10%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+SE
+
+SW
+
+S
+
+
+%Calm 14
+
+Winter at Port Hardy is a wet, windy time of year.
+Strong lows and frontal systems
+move onto the North Coast, generating frequent east to southeast winds up Queen
+Charlotte Strait and over the airport.
+While the airport can experience periods when
+the winds are light or calm, it is worth noting that over 25 percent of the time in the
+winter  the  winds  are  in  excess  of  10  knots.
+Very  frequently, the  winds  are  much
+stronger over Queen Charlotte Strait and these winds often move onto the airport a
+few hours ahead of an approaching frontal system.
+
+
+On the plus side, when the strong southeast winds are blowing the airport tends
+to remain just above the IFR category.
+
+
+The  weather  here  is
+extremely variable, as the major storm tracks off the Pacific prefer to lie across this
+area.
+Cloudy skies and precipitation tend to be common, yet in the summer the days
+can  be  hot  and  sunny  with  the  strongest  thunderstorms  anywhere  in  the  province.
+
+BC-E  11/12/05  11:32 PM  Page 185
+
+LAKP-British Columbia
+
+185
+
+The wind pattern is fairly uniform across the entire year.
+Southerly winds tend to
+
+develop ahead of weather systems and then become northerly  in their wake.
+
+
+Prince George
+Wind Frequency by Direction
+Summer
+N
+
+Prince George
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+40
+
+%
+
+30
+
+%
+
+20
+
+%
+
+10
+
+%
+
+NE
+
+NW
+
+NE
+
+
+These conditions tend to be episodic in that poor
+weather will redevelop night after night, until the wind or the airmass changes.
+
+
+The winds at Prince Rupert are for the most part light.
+Even in the winter months
+when vigourous weather systems sweep into the North Coast, the airport winds are
+less than 10 knots 75 percent of the time.
+
+ 
+ 
+
+BC-E  11/12/05  11:32 PM  Page 187
+
+LAKP-British Columbia
+
+187
+
+The wind patterns at Prince Rupert show a strong seasonal variation.
+In the sum-
+mer months, two predominate wind directions prevail.
+The marked southeast wind
+occurs  ahead  of  approaching  weather  systems.
+The  west  winds  occurs  behind  the
+fronts and with sea breezes.
+
+
+Prince Rupert
+Wind Frequency by Direction
+Summer
+N
+
+40%
+
+Prince Rupert
+Wind Frequency by Direction
+Winter
+N
+
+40%
+
+NW
+
+30%
+
+NE
+
+NW
+
+30%
+
+NE
+
+20%
+
+10%
+
+20%
+
+10%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+SE
+
+SW
+
+SE
+
+S
+
+%Calm 16
+
+S
+
+%Calm 12
+
+
+Almost one-third of the time the winds will blow
+strongly from the south to southeast.
+
+
+Sandspit
+Wind Frequency by Direction
+Summer
+N
+
+Sandspit
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+NE
+
+NW
+
+30%
+
+25%
+
+NE
+
+20%
+
+15%
+
+10%
+
+5%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+SE
+
+SW
+
+S
+
+
+The winds at Sandspit are a product of only a limited number of influences.
+The
+southeast winds occur ahead of approaching low pressure systems.
+Beginning fairly
+light, these  southeast  winds  will  increase  as  they  are  channelled  between  the 
+Coast Mountains and the Insular Mountains.
+At the peak of a storm, winds can be
+impressive at Sandspit with the winds being even stronger over Hecate Strait.
+It has
+been noted by forecasters that if the isobars on a surface weather map are oriented
+more northwest-southeast than north-south, then convergence will cause the winds
+to be strongest over the Sandspit.
+
+
+The westerly wind is a channelled wind through Skidegate Inlet.
+Sandspit Airport
+will  frequently  show  strong, gusty  westerly  winds  behind  a  front  that  will  last  for 
+several  hours, then  begin  to  diminish.
+These  westerly  winds  will, however, persist
+until  the  high  pressure  ridge  that  is  following  the  frontal  system  moves  across  the
+area.
+The  nicest  conditions  in  winter  occur  during  times  of  outflow  winds
+through the mainland inlets, although snow showers can be a problem over Hecate
+Strait and along the eastern shores.
+Situated  at  the  junction  of  several  valleys, the  wind  pattern  at  Terrace  Airport
+
+shows the strong influence of topography and pressure gradient.
+
+
+During the summer months, the winds are quite variable and blow from almost all
+quadrants.
+The  most  prominent  wind  is  a  southerly  that  blows  out  of  the  Kitimat
+River Valley from Douglas Channel.
+This wind usually occurs ahead of an approach-
+ing frontal system.
+This southerly wind also occurs in the summer when there is a
+thermal trough inland and a ridge of high pressure along the coast.
+The other promi-
+nent  wind  is  a  northerly  drainage  wind  out  of  the  Kitsumkalem  River  Valley.
+The
+winds do blow easterly and westerly over the airport but are seldom strong.
+
+
+Terrace
+Wind Frequency by Direction
+Summer
+N
+
+Terrace
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+50
+
+40
+
+30
+
+20
+
+10
+
+NE
+
+NW
+
+50
+
+40
+
+NE
+
+30
+
+20
+
+10
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+S
+
+SE
+
+%Calm 16
+
+SW
+
+SE
+
+
+%Calm 20
+
+S
+
+BC-E  11/12/05  11:32 PM  Page 192
+
+192
+
+CHAPTER FIVE 
+
+The  influence  of  cold  air  and  falling  pressure  along  the  coast  ahead  of  a  strong
+weather system is evident in the winter wind pattern at Terrace.
+North winds are very
+common ahead of a weather system.
+These winds also occur in outflow situations and
+can result in near blizzard conditions.
+Just ahead of an approaching frontal system, the
+winds  will  often  switch  to  a  southerly  from  the  Kitimat  River  Valley  as  warm  air
+begins to move into the area from the coast.
+
+
+During  the  winter, upslope  conditions  off  the  coast  mixing  with  cold  air  from  the
+interior will produce low cloud and poor visibility in rain or snow, depending on the
+temperature.
+Even  when  the  precipitation
+stops, all too often radiation fog forms, rapidly producing prolonged IFR conditions.
+
+
+With
+the Fraser Valley extending off to the east and the Strait of Georgia lying in a rough
+northwest-southeast line just to its west, the winds are strongly influenced by topog-
+raphy and season.
+
+
+During the summer months, the winds are predominately east or west.
+The west
+wind tends to be a sea breeze while the east wind is a drainage wind coming out of
+the Fraser Valley.
+Minor frontal systems do move across the area resulting in a south-
+east wind ahead of the front changing to a northwest wind in its wake.
+Seven percent
+of the time the winds are calm and 85% of the time the winds are less than 10 knots.
+
+Only on the rare occasion do winds exceed 20 knots.
+
+
+Vancouver
+Wind Frequency by Direction
+Summer
+N
+
+NW
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+Vancouver
+Wind Frequency by Direction
+Winter
+N
+
+50%
+
+NE
+
+NW
+
+40%
+
+NE
+
+30%
+
+20%
+
+10%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+SE
+
+
+%Calm 10.0
+
+S
+
+S
+
+The winter winds show a similar pattern but are stronger in strength.
+The easterly
+wind is especially noticeable.
+Added to the normal easterly drainage wind, that occurs
+
+BC-E  11/12/05  11:32 PM  Page 194
+
+194
+
+CHAPTER FIVE 
+
+almost  every  night  at  Vancouver  Airport, is  the  enhanced  easterly  winds  ahead  of
+approaching coastal lows and arctic outflow winds that occur once or twice per winter.
+
+
+Victoria
+Wind Frequency by Direction
+Summer
+N
+
+Victoria
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+NE
+
+NW
+
+30%
+
+25%
+
+NE
+
+20%
+
+15%
+
+10%
+
+5%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+SE
+
+SW
+
+S
+
+
+%Calm 8.0
+
+Victoria Airport is not noted for its winds; in fact, about 90 percent of the time the
+winds  are  less  than  10  knots.
+In  winter, the  winds  at  Victoria  Airport  are  almost
+equally distributed around the compass, except for a strong preference for a westerly
+
+BC-E  11/12/05  11:32 PM  
+This  wind  is  a  katabatic  flow  off  of  the  Insular  mountains, occurs  most
+nights, and tends to be light, 5 to 10 knots.
+Winds from other directions also tend to
+be light, except for southeast winds which occur ahead of weather systems crossing
+Vancouver Island, and southwest winds that occur in the wake of these systems.
+Summer winds are also mainly light and show a similar preference for the katabatic
+westerly flow.
+However, there is an increased occurrence of east to southeast winds.
+
+These  winds  are  largely  sea  breeze  in  nature  and  occur  during  the  afternoon  and 
+early evening.
+
+
+As such, the low cloud in precipitation tends to
+take longer to form ahead of an approaching frontal system and lifts to above 1,000
+feet fairly quickly in its wake.
+In such a case, the katabatic wind tends to carry it onto the airport near 0900 UTC,
+and it can persist to late morning, 1700 UTC or so.
+
+
+During the winter, Northeast “Strait effect” winds can bring snow showers and low
+visibilities as cold air funnels out of the mainland inlets and valleys.
+Some say that part
+of the reason that Victoria received much more snow during Storm ’96 was due to
+this local effect.
+
+
+Williams Lake
+Wind Frequency by Direction
+Summer
+N
+
+Williams Lake
+Wind Frequency by Direction
+Winter
+N
+
+NW
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+NE
+
+NW
+
+NE
+
+40%
+
+35%
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+5%
+
+W
+
+E
+
+W
+
+E
+
+SW
+
+SE
+
+SW
+
+
+The summer winds at Williams Lake are quite benign, being calm almost 30 per-
+cent of the time and less than 10 knots almost 90 percent of the time.
+When wind
+does occur, it shows a strong bias to being either from the northwest or southeast.
+
+Winds continue to remain calm almost 30 percent of
+the  time, and  less  than  10  knots, around  86  percent  of  the  time.
+Of  note  is  the 
+preference for southeast winds over all other directions.
+Ahead  of  frontal 
+systems, the southeasterly winds frequently develop along the Fraser River and often
+reach values of 20 gusting to 30 or more knots.
+However, behind the front, the cold
+northwesterly winds tend to be confined behind the arctic front.
+
+
+BC-E  11/12/05  11:32 PM  Page 199
+
+LAKP-British Columbia
+
+199
+
+)
+
+%
+
+(
+
+y
+c
+n
+e
+u
+q
+e
+r
+F
+
+)
+
+%
+
+(
+
+y
+c
+n
+e
+u
+q
+e
+r
+F
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Frequency of ceilings below 1000 feet and/or visibility below 3 miles
+Williams Lake
+
+Summer
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+10 11 12 13
+9
+Time of Day (UTC)
+
+14 15 16 17 18 19 20 21 22 23
+
+Frequency of ceilings below 1000 feet and/or visibility below 3 miles
+Williams Lake
+
+Winter
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+10 11 12 13
+9
+Time of Day (UTC)
+
+14 15 16 17 18 19 20 21 22 23
+
+ 
+ 
+BC-E  11/12/05  11:32 PM  Page 200
+
+200
+
+BC-E  11/12/05  11:32 PM  Page 201
+
+LAKP-British Columbia
+
+201
+
+Glossary of Weather Terms
+
+anabatic wind - a local wind which blows up a slope heated by sunshine.
+
+advection - the horizontal transportation of air or atmospheric properties.
+
+
+anticyclone - an area of high atmospheric pressure which has a closed circulation
+
+that is anticyclonic (clockwise) in the Northern Hemisphere.
+
+blizzard - a winter storm with winds exceeding 40 km/h, with visibility reduced by
+falling or blowing snow to less than one kilometre, with high windchill values
+and lasting for at least three hours.
+All regional definitions contain the same
+wind speed and visibility criteria but differ in the required duration and tem-
+perature criterion.
+
+
+cat’s paw – a cat paw-like, ripple signature on water given by strong downdrafts or
+
+outflow winds.
+A good indication of turbulence and wind shear.
+
+
+ceiling - either (a) the height above the surface of the base of the lowest layer of
+clouds or obscuring phenomena (i.e. smoke) that hides more than half of the
+sky; (b) the vertical visibility into an obstruction to vision (i.e. fog).
+
+chinook - a warm dry wind blowing down the slopes of the Rocky Mountains and
+
+over the adjacent plains.
+
+
+It can occur in cloud and is caused by wind shear.
+
+
+convergence - a condition that exists when the distribution of winds in a given area
+is such that there is a net horizontal inflow of air into the area; the effect is to
+create lift.
+
+
+Indicates a development of the low.
+
+deformation zone - an area in the atmosphere where winds converge along one axis
+and diverge along another.
+Where the winds converge, the air is forced upward
+and it is in these areas where deformation zones (or axes of deformation as they
+are sometimes referred to) can produce clouds and precipitation.
+
+disturbance - applied loosely: (a) any small-sized low pressure system; (b) an area
+
+where the weather, wind, and air pressure show signs of cyclonic development;
+(c) any deviation in flow or pressure that is associated with a disturbed state in
+the weather; and (d) any individual circulatory system within the primary circu-
+lation of the atmosphere.
+
+
+divergence - a condition that exists when the distribution of winds in a given area is
+
+such that there is a net horizontal outflow of air from the area.
+
+
+downdraft - a small scale downward current of air; observed on the lee side of large
+objects that  restrict the smooth flow of air or in or near precipitation areas
+associated with cumuliform clouds.
+
+
+downburst - an exceptionally strong downdraft beneath a thunderstorm usually
+
+accompanied by a deluge of precipitation.
+
+
+Föhn wind (foehn wind)- a warm dry wind on the lee side of a mountain range,
+
+whose temperature is increased as the wind descends down the slope.
+It is 
+created when air flows downhill from a high elevation, raising the temperature
+by adiabatic compression.
+
+
+BC-E  11/12/05  11:32 PM  Page 203
+
+LAKP-British Columbia
+
+203
+
+Table 1 - The Fujita Scale
+
+F-Scale 
+Number
+
+FO 
+
+F1 
+
+ F2 
+
+F3
+
+F4 
+
+F5
+
+ Intensity Phrase  Wind Speed 
+
+ Type of Damage Done
+
+(kts)
+
+35-62
+
+Weak
+Tornado 
+
+Moderate
+ Tornado
+
+ 63-97  
+
+Some damage to chimneys; breaks branches off trees; 
+pushes over shallow-rooted trees; damages sign boards.
+
+
+The lower limit is the beginning of hurricane wind speed; 
+peels surface off roofs; mobile homes pushed off foundations 
+or overturned; moving autos pushed off the roads; attached 
+garages may be destroyed.
+
+ 
+gust - a sudden, rapid and brief increase in wind speed.
+In Canada, gusts are
+reported when the highest peak speed is at least 5 knots higher than the 
+average wind and the highest peak speed is at least 15 knots.
+
+
+gust front - the leading edge of the downdraft outflow ahead of a thunderstorm.
+
+
+hurricane – an intense tropical weather system with a well defined circulation and
+maximum sustained winds of 64 knots or higher.
+In the western Pacific, hurri-
+canes are called “typhoons,” and similar storms in the Indian Ocean are called
+“cyclones” (see Table 2 for hurricane intensitites).
+
+ 
+Table 2 - Saffir-Simpson Hurricane Scale
+
+Category
+#
+1
+2
+3
+4
+5
+
+ Sustained Winds
+(kts)
+
+64-82
+
+83-95
+
+96-113
+
+114-135
+
+>155
+
+Damage
+
+Minimal
+
+Moderate
+
+Extensive
+
+Extreme
+
+Catastrophic  
+
+  
+BC-E  11/12/05  11:32 PM  Page 204
+
+204
+
+GLOSSARY 
+
+icing - any deposit of ice forming on an object.
+
+
+instability - a state of the atmosphere where the vertical distribution of temperature
+
+is such that a parcel displaced from its initial position will continue to ascend.
+
+inversion - an increase of temperature with height - a reversal of the normal
+
+decrease of temperature with height.
+
+
+isothermal layer - equal or constant temperature with height.
+
+
+jet stream - a quasi-horizontal stream of wind concentrated within a narrow band;
+
+generally located just below the tropopause.
+
+
+katabatic wind - downslope gravitational flow of colder, denser air beneath the
+warmer, lighter air.
+Also known as “drainage wind” or “mountain breeze”.
+
+Strength can vary from gentle to extremely violent winds.
+
+
+lapse rate - the rate of change of an atmospheric variable (usually temperature) with
+
+height.
+
+
+lightning - any and all forms of visible electrical discharge produced by a thunder-
+
+storm.
+
+
+BC-E  11/12/05  11:32 PM  Page 205
+
+LAKP-British Columbia
+
+205
+
+plow wind - usually associated with the spreading out of a downburst from a thun-
+derstorm; a strong, straight-line wind in advance of a thunderstorm that often
+results in severe damage.
+
+
+precipitation - any and all forms of water particles, whether liquid or solid, that fall
+
+from the atmosphere and reach the surface.
+
+
+rime icing - the formation of a white or milky and opaque granular deposit of ice
+
+formed by the rapid freezing of supercooled water droplets.
+
+saturation - the condition in the atmosphere where actual water vapour present is
+
+the maximum possible at the existing temperature.
+
+shower - precipitation from cumuliform cloud; characterized by suddenness of
+beginning and ending, by rapid changes in intensity, and usually by rapid
+changes in the appearance of the sky.
+
+
+In Canada, a squall is reported when
+
+the wind increases by at least 15 knots over the average speed for a duration of
+at least 2 minutes and the wind reaches a speed of at least 20 knots.
+
+
+squall line - a non-frontal line or narrow band of active thunderstorms.
+
+
+stability - a state of  the atmosphere where the vertical distribution of temperature
+
+is such that a parcel will resist displacement from its initial position.
+
+stratiform - term descriptive of clouds of extensive horizontal development; flat,
+
+lacking definition.
+
+
+stratosphere - the atmospheric layer above the tropopause; characterized by slight
+
+increase in temperature from base to top, very stable, low moisture content and
+absence of cloud.
+
+subsidence - the downward motion of air over a large area resulting in dynamic
+
+heating.
+
+
+supercooled water - liquid water at temperatures below freezing.
+
+
+thunderstorm - a local storm invariably produced by a cumulonimbus cloud, and
+
+always accompanied by lightning and thunder.
+
+
+troposphere - the portion of the earth’s atmosphere from the surface to the
+
+tropopause; characterized by decreasing temperature with height and 
+appreciable water vapour.
+wind - air in motion relative to the earth’s surface; normally horizontal motion.
+
+
+wind direction - the direction from which the wind is blowing.
+
+
+wind speed - rate of wind movement expressed as distance per unit time.
+
+
+wind shear - the rate of change of wind direction and/or speed per unit distance;
+
+conventionally expressed as vertical and horizontal wind shear.
+
+
+zonal wind - a west wind; conventionally used to describe large-scale flow that is
+
+neither cyclonic or anticyclonic; also called zonal flow.
+
+
+For float plane operation, this symbol is used to denote areas where winds and 
+significant waves can make landings and takeoffs dangerous or impossible.
+
+
+Turbulence symbol
+This standard symbol for turbulence is also used to indicate areas known for 
+significant windshear, as well as potentially hazardous downdrafts.
+
+
+Strong wind symbol (straight arrow)
+
+This arrow is used to show areas prone to very strong winds and also indicates the 
+typical direction of these winds.
+Where these winds encounter changing topography 
+(hills, valley bends, coastlines, islands), turbulence, although not always indicated, 
+can be expected.
+
+
+This symbol is similar to the strong wind symbol except that the winds are constricted 
+or channeled by topography.  
+In this case, winds in the narrow portion could be very 
+strong while surrounding locations receive much lighter winds.
+
+
+This standard symbol for snow shows areas prone to very heavy snowfall.
+
+
+Thunderstorm symbol (half circle with anvil top)
+
+This standard symbol for cumulonimbus (CB) cloud is used to denote areas 
+prone to thunderstorm activity. 
+
+
